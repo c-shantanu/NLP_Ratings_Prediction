@@ -1,0 +1,975 @@
+review,rating
+Excellent router. Easy setup. Wide coverage area!!! Using it for 2 years... no issues till date.,5.0
+So staright into it.The WiFi range is good and enough fo 3bhk houses. However speed reduces a bit when there are walls. I would suggest to get a longer ethernet cable and keep the router in the middle of the house from where it can give good signal to all rooms even if there is a wall or door. The thickness of the wall also depends so take that into consideration.InstallationConnect the Ethernet cable into the blue/distinguished port and turn on the router. A green light will glow. Connect it to your device wireless/wired (username and passwor will be given at the back of the router  on a label. Take the username and password given down on the label for connecting the router). Open the web and type the URL 192.168.0.1 and type the username and password (admin and admin respectively by default). Select the type of network or click auto detect and you are ready to go!There is a speed limit for the router. Please check if you have speed greater than 300mbps.,4.0
+"Right now I am using this product as a wifi extender. (3x5dbi for 300mbps)My base wifi router is on first floor, I placed this product at a place in ground floor where the base signal is comparatively good. Now the whole ground floor is covered with the same internet speed that is received at the place where I parked this product.Its signal can easily penetrate a thick wall. Atleast in my case there is a thick wall in between and my TV is 30 35 feets away from the extender, and it's working perfectly.Configuration is damn friendly, its easy and even non technical people can easily configure it as it is preloaded with good default options.All in all its value for money and it works.",5.0
+I couldn't get even 3 full points out of 5 points of WiFi signal in the next room which is around 5 feet away. I couldn't believe then what does the 3 antennas are doing?. Very disappointed because having a very good internet connection but end up in buffering in YouTube streaming just because of the weak signal.,2.0
+This product description tells that this router offers 300 Mbps of internet speed but this is a lie. I use 500 Mbps of internet speed plan but when I used this router I only receiving 10 Mbps of speed. I used LAN to cross-check and I received 400 Mbps of speed. I know why this happened because this router only has 3 metal receptors and my LAN cable has 10 wires. It is not at all possible to get more than 20 Mbps of speed using this router. I strongly recommend not going for this one because it is not good in anything just trash.,1.0
+I have it configured as a range extender and it is in direct line of sight of the main router (also a TPLink). The distance between main router and this router is roughly 30 ft. Sometimes I get very good network in this room and sometimes it wont even show as available. Not exactly hassle free and definitely not for serious use like office calls too much call drops since I set this up in the network. A 7 year old Tenda bought for 600 bucks works better than this router. I would recomment the Tenda routers over TP Link any day.,1.0
+"Premise: I live in a 2BHK. I use internet for daily YouTube streams, downloads (~ 5GB per day), Gaming and other usual apps. on 3 devices.The router is perfect for the daily use of internet.Key is the positioning router in the house. I've placed in almost middle of the house. With 3 antennas, signal strength is better (earlier it owned a 2 antenna router)If you are into daily online-gaming then the device would just be the right choice for you.Also, i found it a better (cost effective) replacement for a 2-antenna router.This is a great choice if you are looking for something within 2000 range.On aesthetic part, the device gives a better feel than usual black router.",4.0
+"The product worked fine for 9 months and then suddenly in the middle of lockdown the Wifi signal started dropping every few min. I thought maybe something was wrong with my ISP so tried wired connection which worked fine and then tried another Mi router which worked absolutely fine as well. Did a factory reset on router, tried limiting to only one laptop and 2 phones, tried every trick mentioned on TP-Link website as well as every other forum but everything proved to be useless. Have written to tp-link support as router has 3 years warranty. Hoping for a replacement.",1.0
+"The design is very nice, light weight, looks like a premium product too!Functionality wise, easy setup with ACT Broadband -- no more Login screen annoyance! Also Administration UI is cool although yet to explore it in depth.MAC Filtering function works like a charm. Last but not least, there is a nice Mobile App to do some quick work without using a browser.One gray area: how safe are these devices w.r.t potential backdoors? Many American products have it, why not Chinese? I'll do some work on this account.",5.0
+It came in a sealed box ..so thankfully it was brand new..i have installed it and it has no issues at all..wifi signal is just the same..i beliv u can only find out the difference in open area..ive installed the router on the ground floor and i use the system on the first floor..becoz of the walls i see no difference in the signal strength i belive.. I guess if your facing such issues of low network in your house then better buy repeater..it will cost you the same but a better solution to ur home wifi network issue i guess...a 3 antenna or a 4 antenna will only work better with an enhanced signal strength if the area is open and there are not many walls..so i would suggest plzz consult a techie before taking a decision of buying a new router...My router started getting freezed so anyway i had to buy a new one..so now my wifi network is continous but signal strength is low on upper floors..i guess i have to buy a repeater now..,4.0
+"Weak signal strength, does not cover enough range. Barely picks up signal 300mtrs away. Easy installation, very light. 2 additional antennas don't actually serve purpose coz no range in a 2bhk. I used Tenda(small one, almost the size of my palm) before, I'd actually suggest ppl to buy that but that model isn't available anymore.To anyone who lost their router functionality bcz of power surge during a storm, make sure to disconnect and unplug ur device. Power surge adapters barely do anything. I used them with my Tenda before. Don't waste ur money on these. Switch off, unplug. Simple.Update on 18/06/21Router disconnects internet connection very often. Not sure what's the cause. Successively, it denies login to my internet too.",2.0
+"Using Since July 2018 - Pathetic Coverage in 3BHK apartment, signal drops drastically the moment you move away from 5 meters away from this device, however, in the same room where it is installed, I get 40 Mbps of speed.Looks like it is unable to negotiate the bends / curves of rooms corner.. 3 Signal Towers are just for show without any use. I am restricted to work in same room when I need to use internet...  Good for those who want to use it in same room or area where there are less obstructions or bends but not for homes. :-(",1.0
+"So o bought this router an year ago from Amazon . The process of installation was very easy and setting it up from TP-Link UI was very easy as it is automatic and there is lot of information available .The signal strength is also really good and i could use internet from every corner of my small 2BHK flat without any kind of speed or wifi strength issue .Now , 1 year laterIt's an absolute mess and i can barely even send a whatsapp message from my bedroom . On running the speed test the download and upload speed barely reaches 1mb/s even though my speed is 100MB/s up and down .  On running the speed test in my study room the speed is 92mb/s but when i go to my bedroom i can barely send a whatsapp message. The speed is highly unstable for some reason and it is pretty annoying at this point and I'm considering switching to D-Link or Nethgear .",3.0
+"TP-Link people not responding even after several mails. bought on 13th July 20, was not working from 06th Aug 20. Faulty product supplied. Amazon not helping as it crossed the 10 days return window. Already mailed Amazon the details, lets see what they can do. will again edit this review if Amazon solves my problem. Very bad customer service of Tp-Link. If you unluckily get a faulty product then forget getting any service from TP-Link. Very bad after sales service. Never buy TP-Link products.Review after 6 months. The router was exchanged with a new one by the local TP Link service center, the exchange took 20 days. The new router is working fine as of now.",3.0
+Not so easy to setup. You must need to install their app then only its setup works well. There weblink to setup is useless. I have connected it with main 100 Mbps router through ethernet cable but range is almost same for both. There is very minor difference in range and signal strength. At certain distance where main router singnal become zero same for this also may be after 1 feet. It might be better if you keep little far from main router so that it can extend range further but who would like to hang open cables in home.Overall no extra benefit seems out of it.,3.0
+"I read few reviews regarding this product and made the biggest mistake of buying this. Pathetic & Horrible Network connectivity. Frequent WIFI disruptions and very poor wifi range. No, My Network provider has no issues, as someone reading this might be suspecting. I have done the necessary testings from my end. So guys don't waste your valuable money. Just completely ignore this and search for other options. Flawness Network connectivity is what we look for and here is the opposite. No Customer or Technical support from TP Link too.",1.0
+"I changed my router to new 3 antenna TP Link as the IT person said it was better and my existing router was way too outdatedTo my surprise, new 3 antenna TP Link router was hardly giving any signal. Since i was travelling i couldn't test the same during the return policy period ( my bad i didn't check when was last date)I am back to my old outdated router and works way well then new TP LinkI am left with brand new router which Amazaon cannot take due to return policy, however if they want they can check the packaging it is brand newWould recommend NO ONE TO BUY THIS PRODUCT and IF BUY THEN TRY IT ON DAY 1  AND IF YOU FIND ISSUES RETURN IT NEXT VERY DAY TO AMAZON",1.0
+Though the speed of this router is better then my last router which was xiaomi 3c.. But the signal strength is just good.. If am moving to the sides of all my room the signal varies.. Only in front room it shows in full strength. But in my xiaomi router this was not the case.. Over all am happy what i got. Lets use it for a month then Il come with my final conclusion.,4.0
+I needed a modem to connect to Jio 4G WiFi and provide a LAN based ethernet to my DVR. This modem was a perfect fit.It has a mode called Range extender. In this mode it was easy to connect this router to JioFi 4G wirelessly. Using a LAN cable CCTV DVR was connected to this modem.Now the DVR is accessible via internet through this modem and JioFi connection.,5.0
+"The data transfer rate is exceptional. However, the connection time is a little slower. Rest everything about this router is excellent. The speed management MIMO works like a charm when using many devices. The range is not the best given that there are 3 antennas, but worth the price that you pay for it.",4.0
+"Delivery was quick and installation was easy. However, the signal strength is very very weak. Sometimes in the same room, you won't get the network, forget about other room. If two devices are connected, the second will not show any network. Worst, product is not returnable just replacement is available. The product is very light and as such it doesn't seems to be any advantage. Overall, product is not at all good, not at all recommended.",1.0
+"I was using a 4G Router of TP link which I purchased at least 5 years back, but its range is very less for which I was not getting wifi signal at ground floor keeping the router at first floor. I purchased this new TP link router which is excellent and its range is pretty good. Getting good signal strength at GF keeping it at FF.",5.0
+TP link quality in performance has gone down.. for my 25 Mbps speed connection I am only getting 8 to 10 Mbps over wired connection and only 2- to 3 Mbps on wifi connection.. ping of 31 and more..This is extremely bad performing router.My tend 150 n is performing better than this and giving me around 18 - 19 Mbps over wifi connection.I cannot recommend this tp-link router to anyone. Don't buy.Adding few more words:You cannot use your android tv over this Router due to its performance.Last 5 years I have been using to link routers and switches but this kind performance issue I had never faced.,1.0
+"1. Signal Strength : 9/10""The signal strength is good, slightly higher than other routers. My broadband speed is 50 Mbps and over wireless I can get almost 40 to 45 Mbps.""2. Other Features : 10/10""Most special thing about this is that it has an app from which you can manage each and every basic settings of your router. Guest Network is also available.""3. Easy to use : 10/10""In market TP-Link routers are the easiest routers to use & setup. Connect all wires and go to <tplinkwifi.net> then you'll get the setup page by entering the admin username & password, after that modifying the settings is very easy.""4. Durability : 6/10""The white part or you'll call the main body is made of plastic which has small vents for air flow & it router doesn't heat up too much. The long black antennas are slight delicate but it does a great job.",3.0
+1) Very easy to setup2) Writing this review after 4 months of usage. It is powered on 24x7 for the last 4 months without any break. It doesn't get warm due to extended usage.3) signal strength is good,5.0
+"Easy to install but range is average, same range like my old Tp link router with 1 antenna",4.0
+"The problem i was having was it worked well for 10 days after the replacement days were gone the router itself started reversing my local isp data and making their connections abort,I tried contacting tp link service center they told me that there is no problem with your router the problem maybe itself from local isp i installed my old 'D link router' it worked verywell. There is no doorstep replacement process maybe i have to go to service center away from my city.",1.0
+"I had a Mi router earlier which went kaput and was looking for a replacement budget router. I purchased this TP-Link router first on 11th September 2020. Within 2 days the router started acting up. I initially thought it was a network issue and told my ISP about it. They asked me to re-check my router as everything was working at their side.  My neighbor has the same ISP and his connection was working fine. On a hunch i asked for a replacement and Amazon, as  superb as always, promptly arranged for a replacement. I got the second router on 17th Sept. Again, the first two days, it worked as expected, third day the same things started. frequent disconnection, super slow internet. I had to switch between my mobile data hotspot & router multiple times in a day. WFH and having such a patchy network was super upsetting.  I called up the ISP to check if the network was all good and they sent a technician to my home to show me there was no issue in the network. He turned up with a DLink test router. Since i have been a long time customer, they allowed me to use the router for 2 weeks. not even one disconnection in the two weeks, good speed throughout. I ended up asking them to get me a new D-Link router, as even if it goes bust, they said will get it replaced.Do not go for this. If you can, pay some more and go for a mid range router.  That should hold up pretty good.",1.0
+"TpLink works great as an extender... Gives excellent coverage.However, if you are not so conversant with this model, set-up  is quite confusing from laptop Browsers. Keeps giving error messages on screen from whichever browser. Finally managed to get it activated through browser on phone.Activating by a phone browser seems to be quicker and simpler.",5.0
+"The default wi fi password did not work and was not enabled for DHCP also.  I had to hard reset the router to get it work. I suspect I was sent a piece someone had already changed the settings. There was no visible damage and looked like new. The wifi coverage is good, though I have kept it a corner in the house, it covers the whole house pretty well.",4.0
+"Worked fine for a few months only, since then there is always an issue with WiFi signal.Tried updating the firmware it didn' work.Also tried changing the wifi signal channel but its the same on every channel. Keeps disconnecting every now and then. And sometimes it works fine for long hours.Hence I do not recommend this product due to its unstabilitiy.",3.0
+"Earlier i was using tp wr841n router which is of 150 mb speed and of single antenna. so due to its low range which cannot even cover our whole house i then decided to get this so-called dual antenna which they says gives us a good coverage like 25-30 meter which is wrong. Now that i am using this, it only gives coverage to 2-3 rooms which means the dual antenna cannot penetrate through walls and other obstacles and thus as a result gives only 10-15 meter but other than this everything is fine.",3.0
+"Ordered this product to use as Range Extender. It was worked initially week like a genuine but after 9th day after few hours of power outage, the source router connection got lost and unable to restore the connectivity even I tried manually. So I requested replacement from Amazon and they delivered replacement product.But this replacement product faced the same issue within a day of delivery so I requested Return from Amazon now",1.0
+Router is not working properly. I purchased total three nos for myself and freinds to enable online classes of children. But wi fi signal is gone in frequently also i have to again turn off and turn on for signal every time. One piece i already replaced but same problem occures in new one also now i am returning that one. I also contacted TP LINK customer care but no response from them. It can be also noted that only one piece is working properly till now and others are so bad.,1.0
+"You receive a small router in the box not usual like other routers it smaller then other. It's easy to install in few steps, the signal is good enough to cover 2 bedrooms and kitchen and hall (total 180sft). It's frequently disconnecting my old smart phone (4.4v) but all my latest devices are been connected. Over its good router for small houses.",5.0
+"Ordered the product a month back. From the first day itself there were network issue. Thinking that it would be an issue from network provider's end and due to rains, I let it go initially. After which i discovered that the issue is with the router. The router is leaving connection every 5 minutes. I tried calling the TP link service provider number but to no avail. Not a single person answered the calls despite me holding the call for 15 minutes. Even Amazon refused to take back or replace the product due to their 8 day return policy. Pathetic service. I got my product exchanged from the service. Those guys gave me a refurbished model saying that this will work as new despite me refusing them. They agreed to get it exchanged after 2 months again. Again when I came home and got my router set up, I am facing the same issue. This router doesnt even catch a range with me sitting exactly in the next room. Simple applications like youtube dont work. Most of the times, I cant even view my router name.",1.0
+"When I first ordered it I had high hopes and expectations from tplink.. But when I tried setting it up the wireless network was already named ""POPAT"". I thought probably the product was renewed so I tried using it for a few days but the wireless network would randomly disappear and then I would be required to restart the router. I ordered a replacement which did not do any good too. Good thing is that the router's name was default and not used by some other person. But the problem of the wireless network disappearing still persisted. Very disappointed.",1.0
+"I bought TP-link N300 WiFi Wireless Router TL-WR845N 3.5 months ago. After using it for 2 months it started showing issues. Frequent disconnections are very very problematic. It is very frustrating to check every now and then what has happened to the router. I am writing this email at 11:45 pm because in last 1 hour, the router is disconnected for 5 times and my work from home is ruined. It is disconnected again while I am writing this email.Such a below third class product. I should have taken the negative reviews seriously before buying it.",2.0
+"How do you even criticise this thing. I’m literally using it to write this review. It’s great. I use it to watch movies and work. My bf makes a living using it. It catches dust, but that’s why we have a vacuum cleaner.All in all, great investment. Looks cool too. I tell kids it is a mini transformer and those idiots buy it!",5.0
+Absolute junk. Within 10days of purchase my computer and Mobile getting 1/10th of actual speed at just 10feet distance.Sit right under the router you will see full speed. I am getting 3-5Mbps of 50Mbhps in the very next room.very bad purchaseUPDATE - even after getting a renewed router from service center the router speed in next room is less than 1mbps..,1.0
+"for 1200 cost it is a better product, but for high speed it may be or may not be a good purchase. At first when i purchased I faced the technical issue later after that also the same issue occurred and it gives good speed but we can't say that is great performance though a better performance. for my work it is a average product but can't finalize this as of now because now i am not in Hyderabad city i am using this in my hometown once i moved to Hyderabad I can say the truthful performance of this router.",3.0
+"I use this router with act fiber cable, had D link router initially but it stopped working, you need to configure the settings by downloading the procedure from TP link website or it will keep taking you to login page again and again. Works fine after configuration.",5.0
+"Bought this product to use as an extender, and it has done a good job so far. The dedicated wifi-extenders are costly and they either have one or two small less powerful antennas compared to this device. The set-up was very easy, and never had any problems till now.",4.0
+This product is very good. I'm very satisfied with the performance. Good coverage. The router is in the living room. It covers inside my bedroom with doors slightly open. Doesn't heats up much.It is working fine till now. So I'm not aware of the tech support. Will update once I get the opportunity.,5.0
+"I bought this router two months ago and I've been using it since then. For me, it has been being working perfect with no complaint so far of any kind.*WiFi SIGNAL - I've this router set up in my 3BHK Flat. And it gives good signal strength throughout the flat.*WiFi SPEED - it completely depends on the kind of plan one has subscribed to i.e. 50mbps or 100mbps or 300 mbps etc. Important thing to note here is that the said speed signifies cable speed (Ethernet) and not that of the WiFi. For instance, 50mbps and 100 mbps plan may give the maximum WiFi Speed of approx. 6 Mbps (50/8) and 12 Mbps (100/8) respectively.My Opinion:Overall, I didn't find any flaw in this router. Of course, there are many other similar routers available in the market. There may be subtle differences as well. And undoubtedly, the specification is preceded by the price. Hence, I've no reason to discourage you to go for this product. I'd also say not to go after anything blindly. Inquire and examine all aspects of the product you're intending to buy and don't ignore looking for similar kind of products available neither disregard other products you come across. You never know perhaps the one you ignored was actually the one you needed.",5.0
+"This is the best router in the range of INR 1500. My building has 6 floors and I stay in 3rd floor. I’m able to access my wifi network in the entire building even at my parking area as well. Superb product. Best thing is we can track if anybody is using our network, there is an option to block the user. Very happy with the product.",5.0
+"It is a  great  product ,  we have one in our house and one in my uncle's  house .Once it's  installed  it's easy to connect  .Its easy to know  if its connected  or not . You can hang or put it anywhere  you want  .  The packaging  was nice ,there was no damage  .  Go for it .I would definitely  recommend  it  .",5.0
+"Your browser does not support HTML5 video.
+
+
+   Best router ever I have purchased. It is very easy to install. I have been using since last six month it is very good. I would recommend this product to you all guys so that you also can enjoy hasslefree Wi-Fi.",5.0
+"I bought this product with a word of mouth from one of my friend but honestly i am regretting it.I use to get 1 or 2 signal bars on ground floor with my Tenda Wifi router placed on second floor of my house but with TP Link, the connection drops even after it being placed on the 1st floor of my house. I am regretting buying it. Please dont buy this product.",1.0
+"Good looking router, easy setup. I am using it in a 2Bhk flat and keep my router in kitchen then after 2 Walls in my bedroom, the range reaches there as 1-3 signal but, the speed remains the same. I guess a 2 antenna router will also work the same way",4.0
+Using it in a 3 BHK house with router installed between living and kitchen wall.Range is satisfactory and installation is hassle free.Range slightly drops after the filter of 3rd wall but that is okay.Good product from TPLINK. Must buy.,4.0
+"Router connection is very simple and user friendly. In detail steps provided on how to connect and use the router so tech support not needed. Wifi signal is also very goodBest part router arrived 1 day before due date, special thanks to amazon.",5.0
+"It worked fine for couple of months, then problem started, not at all getting internet properly to slow.. even using right infront of router its horrible. i have checked with another dlink router its working fine, i have made check with my broadband company thinking that maybe its my internet but its not. Please don't buy this router. go for better one even if u find a bit pricey. I NEED TO REPLACE THIS.. IF ANYONE KNOW HOW TO REPLACE PLEASE LET ME KNOW",1.0
+"Not good product, No range even 3 antenna.No 5GH frequency . Why called N router ?Outdated model , better buy i ball router of 2 antenna in 70% cost and get better range.Function Malfunction and sometime hang also.Immediate resume internet not happen ,it take time.Overall not good .",1.0
+It will automatically get switched off and switch on.. I didnt like the prodcut  at all.. I used Tp-link before& it was good ..  present model its not at all good. Totally disappointed.. now i won't even get a refund or product exchange. Adopter its not working.,1.0
+Pros~Easy installation~Design~Brand~4 Rj45 out ports to connect multiple devices.Cons~seller do not accept return~No wall penetration option.~ Low range of signal strength.~ You need to connect computer at the time of initial installation,3.0
+Decent performance but not OK for its size. Not able to penetrate even 3 walls. Range just about 20 feet when installed at height of 4 feet. I've used much smaller routers with much better range and performance. Rest features quite nice but performance strictly average.,3.0
+"The router is incapable of taking load of even 5 devices.The wifi gets disconnected randomly (not the internet), the admin page also becomes unavailable at those times.Have to manually restart it again and again.If you stream a video or go over a whatsapp or zoom call, the  wifi gets disconnect.Had been complaining to my ISP for a month, only to find out that the router is faulty.",1.0
+Excellent product. I have placed it in living room towards ceiling. Though I am getting good signal quality in bedroom which is last mean apart 20 feet with narrow passage. When I close door signal drop little but do not have problem. Build quality can be improve.,5.0
+"Considering the big brand TP Link, I had so much EXPECTATION from the technical support team. Unfortunately there is no replacement option for faulty adapter after 3 months of use.TP link is asking me to visit their Distribution centre somewhere in remote area which is around 50-60km away and no convenient way to reach there. Despite telling them that I'm ready to pay for the logistics charges, they are neither ready to send it to my address and nor ready to give any location  within city limit.",2.0
+"Wifi signals are very good..!! provided your home does not have tiles installed on walls, as i have just now renovated my house and used wall tiles in gallery where my router is installed. i’m experiencing lower signal bars than usual. rest assured it’s a very good router , although i wish i would have bought some different model with more signal strength.😐",5.0
+Best router under 1000-1500 segment range is more than expected  my house is 4bhk and and huge drawing room 4 balconies and 4 washroom and it covers each and every spot with a good strength  even I'm at second floor but range cover till my roof and parkingJust go for it ...,5.0
+"It says 300mbps i dont know for what reason, but it only goes to 90mbps barely for download speed even if the plan is more, buy gigabit router for more than 90 mbps speed",1.0
+You cannot use the the router without the tp  link USB adapter. Hence need to order one from amazon. Otherwise the devise it self was packaged well and delivered on time.  Wifi signal is good Connected my Kindle works seamless. Installation is easy follow the steps in the guide.,5.0
+Writing a review after usage of almost 1.5+ years. I've N300 as my main router still using since 2012/13 to till date. This router is installed as extender to earlier(N300) which works seamlessly.I find it difficult to set up this as a second router but after installing it since then I didn't need to even open it.I didn't use many other router but I must say Tp link router are durable and versatile.,5.0
+Product stopped working on 12th day itself. Requested for return to Amazon as tplink customer care was in endless holding. Thanks to Amazon for understanding problem and agreed for return of this faulty product even after Return window is closed.,1.0
+"frequent net connection dropping with this product.., lost money.., later I bought d link again.., 10 years back I bought d link router.. which is still working fine.  now I want to tp-link.., so bought.., a waste product. stopped working in first month only. first 10 days it worked properly..now permanently not working.",1.0
+It's extremely easy to set it up. I had to switch from my previous router and I was able to do so without any help from my ISP. The Tether app is a cherry on top and allows me to share my WiFi with guests very easily.Amazing product and great delivery by Amazon,5.0
+"I was looking for a router with good range & advanced security features. This router has mac locking, advances security features.",5.0
+"I've been using this one for 2 years almost and never faced any difficulty. The lookwise very good, strong signals and best product I've ever purchased with price of 1100 Rs. I think range is 25-30 meters.",5.0
+"After 5 months..Needs restarts everytime for easy search smartphones.Signals weak,Can Cover area 200sqft with 3 antenas.(useless)I have 20mbps line. But it not works properly.Disappointed with product's working life.",1.0
+"Not worth the price at all. There are routers half its price which provide a better range. I installed this in my room and I could not get any range in the other room, barely 3-4 metre away from the router. Any other TP LINK router gives the same range. Other brands like iball or MI will give way better range at a lot cheaper rate.",1.0
+"Doing a fantastic job as expected. If you are willing to buy a 2-in-1 Router to support all ISP types; like ADSL (RJ11) + Ethernet (RJ45) - go for D-Link 2750U model. It is a ADSL modem that has 4 Ethernet ports for LAN connectivity. You can upgrade the default shipped Indian Firmware to Middle east region Firmware (you can get that from ""dlinkemea"" site) and enable support for Ethernet based ISP too :). So you don't have to buy another ADSL supporting router in future if you want to swap ISPs.",5.0
+"the speed is perfect.. I bought it for range increase, but that did not work out..may be because of intercepting walls.. i am using a TP link range extender.. working fine now.. thank you",5.0
+"Connectivity and speed of the internet are good, but the wifi signal is good only for 2 - 3 floors.I recommend buying a wifi booster to increase the bandwidth of the wifi signal if you want the wifi signal to reach more than 3 floors. Otherwise, It is a very good product.If you know how to operate the computer relating to internet connectivity, you can set up the connection all by yourself. Otherwise, you can call your Internet Service Provider to come and connect the wifi router for you.",5.0
+"Looks like a very good deal right. 300mbps speed, 3 antennas, low cost. Well I'm really disappointed bc the quality is really cheap. It's made of really cheap quality plastic and the USP for me was 3 antennas that means more coverage (range). Turns out it had the same range as my old 1 antenna router. Looks sweet in the white though.",3.0
+if you want a wifi router having above 300mbps speed you can go for it without any doubt....quality of the product is really very good...signal strength is also good...installation process is also very easy... I think it is one of the best single band 450mbps wifi router.,4.0
+"Poor signal capability. (Unlike a TPlink Pruduct)A purchase, u might regret.Well the brand is good - but this product series did leave a good experience.",3.0
+"Easy to install and easy to use. I am not a tech person, since I live alone I look for gadgets that are easy to use. This one does its job perfectly without any hassle in installing and setting up basic security protocols.",5.0
+Amazon don't provide you invoice with device Serial number while when you contact TP-Link customer services for any replacement they ask for invoice with device serial number (which is logical too).Amazon should enhance their invoice generation system.,5.0
+"The router is easy to install. It has limited features as required. It has three antennas with a power port and 4 Ethernet ports in it. It has a WPS button back of the router. The reset button is also secured installed, however no pin provided to use when it is required to reset the router.",4.0
+"The router is really great and has a very good capacity for connections. Using it at home with 3 laptops, 6 mobile phones, and 1 Firestick connected at the same time and quality of the internet is still great.",5.0
+I was just scrolling through my orders and found this one and would love to write a review. Its been 5 years and its still working perfectly fine. I turn it off only on Sundays. Still its working perfectly fine.,5.0
+i was able to connect it to my mobile(samsung) ... but it shows temporarily internet may not be available sometimes... and mac binding rules are also not applied sometimes... other than those two issues everything works fine,3.0
+"Don’t purchase this if you have budget around ₹1200. This tplink TL-WR841N router signal strength is very poor. If your router is at only 2-3 metres distance , then also your signal will be low. Another thing is when you connect 2-3 devices at a time(2 mobile phone, 1 laptop) then speed goes down a lot. Initial setup is easy.",2.0
+New box open today & we try to fix tipi link router but router not working. Of /on wash blinking started. makenik said this router all ready use one have.router his defiled have.,1.0
+"The WIFI signal from this router is very poor. Though there is a good broadband speed provided by the operator, the network drops when we are in the room where the router is not placed.",2.0
+I have purchased this product before 10 months but right now I am using my old Tenda router because this router is nothing but just a piece of junk. It gets a disconnect from the internet every 3 minutes. I have used this router for 10 months but I have noticed this problem since I've started working from home. I almost got fired from my job because of this useless product of yours.,1.0
+This is best budget router. I am using it for a week now. It has a great wifi signal. It cover almost cover my 2bhk home. I placed it in a corner of masterbedroom. It gives full strength in master bedroom and a bedroom n in other rooms it has adequate signal. It is as easy as piece of cake to install.,5.0
+The single band router is quite good. It was quite difficult to configure though. Using it for my 100mbps Ethernet connection and the router  appears to be quite adequate for the purpose.,4.0
+The router is actually good and has decent range and build quality.But sometimes if we restart the router the signal doesnt show in the device which we want to connect. We have to restart the router for it to show the wifi name in the devices.Other than that it is a decent router for this budget.,4.0
+"Received a used router TP-Link WR845. Even the product had an already saved SSID 'Rajesh Home' when I received the item. As of now, the product is working. It was sold by Appario Pvt. Ltd.",1.0
+The router is able to connect with all devices in my house except for my Moto G5 Plus phone running on Android 8.1 Oreo. If anyone had a similar problem please suggest a solution for this issue. Other devices have no connectivity problems with this router. So overall this is a good router.,4.0
+"Before i had digisol router with 2 antennas,This come with 3 antennas but its almost giving same performance as digisol 2 antennas router.Could have been better.",4.0
+3 months into buying this router and it stops working all of a sudden. Completely dead.Keeping such products decreas the trust that we put into amazon.I know that may be i am the unlucky guy but still i spent money on a thing that lasted 3 months approx.I personally do not recommend buying this router ever,1.0
+A honest review after 3 years of usage.Date of Purchase : 29/5/2016.A very good product. initially had lot of thoughts buying it but it is a really excellent product.No hassles so far except for one time where i need to re calibrate it due to change on the internet service provider where there was a temporary outage i would say.Rest of the time it is great. Signal strength is also good.One can go for it and worth buying it.,5.0
+"Have been using it as wifi extender. Practically, it extends only up to 10meters. Otherwise overall not bad if using as extender.",3.0
+"This device is just loyal ,A must go product, if you have price constraints and are not going for dual band router which are a bit priceyThe network is most reliable among all the router I have usedIts speed is enough and competes with most of the 2.4G routersThe software is feature rich and you can create a guest network in which you can limit the speed ,this feature I found most useful for other people",5.0
+"This is a good product for its price. I was expecting it to be better than my old router but its kind of same, even though my old router was more than 10 year old. The signal range and quality of coverage is same. I would recommend to all any one having small office or apartment but not for big apartments and duplex as said and recommended in other reviews. Overall product is good, delivery and packaging was very good from seller.",4.0
+Using it with my optical broadband connection. Setup is breeze & options are clear. Wifi security features are all available & connection to other devices can be easily configured.. Also MAC binding feature available & same is of great use for my ISP. Coverage / penetration in high power is great in my 1000 sqft apartment even when we have MCC Walls all through (no bricks).,5.0
+I have a stable internet connection of 50 MBPS and with lan I get great speeds upto 48 mbps but with WIFI I only get around 3 mbps,1.0
+"Product installation was fine, but it started giving problem within a week, wifi keeps on connecting-disconnecting time and agian, the worst routerni ever used so far, and believe me I have used far more superior stuff than this one, so I know what am I talking about, don't waste your money on this product",1.0
+My tenda single tower have the better network than this 3 tower. Speed is also same as 100mbps and they show 400+.According to me its waste of money.,1.0
+"Performed good for first 2 weeks....now facing issues with signal strength, frequent disconnections. I have a 4k 55' Smart TV in addition to a desktop and two mobiles. This router could manage only two mobiles at a time or desktop or tv. I think it lacks the necessary hardware to process data packets at high speeds and huge volumes.",1.0
+It was time to replace my old Router and I'm so happy I picked this one. It was recommended by my Service Provider.,5.0
+"Good for home use login process and accessibility of the router is quite simple. I have placed in first floor middle of our house and its cover all the 3 floors easily. I use it outside the home area its ranges 40-50 feet easily.I have purchased it in lightning deal @ Rs 899/- and after use of 4 months, I write the review. Very good option in this price range for home use.",5.0
+Good looks. Stable signal. Easy to use interface and tools such as Wireless MAC filtering can be added from Wireless statistics page. Only issue is signal strength is not that great but just satisfactory even with 3 antennas.,4.0
+The product handy for not so small easy to use is it install and take support is also good and yes some advanced feature is also available here 4 ports for sharing two antenna are just show off the range is not good if I compare this to D-Link speed,3.0
+Heard lot about Tp link so bought it but it has very poor signal ..always fluctuating...Regularly get only 2 bars of signal in another room whereas I had D-Link 605 earlier..and received good signal even on another floor..,3.0
+"Worst of money, the signal is just enough for one room. In my 2 bhk, the router is placed in the hall and the signal is not available in the other 2 rooms, don't buy this pls...",1.0
+"I think this is one of the best investments that I have made on Amazon. I have used the router for about a month, and here are my thoughts:Pros:1. Good range2. Light weight3. Easy to configure and installCons:1. Has limited connectivity if there is a wall in between.",5.0
+"Awesome is what i can surely say, earlier i used D-Link in comparison to D-Link its too good in range, user interphase and signal strength. BANG on this 100% Worth for every penny",5.0
+"I live in a 2 storied Villa and was in need of a decent router with good range.. Hence Tp Link WR841N with 2 antennas 5Db..I had bought the product 2 days ago.. After my initial usage, I can say the product is meagre and not exactly upto the mark and popularity that is shown here.. Connectivity is good.. No qualms about that.. Only problem is the ""Range"".. So much for 2 antennas 5db..I could not get the required range in all areas except maybe 2 metres from the device!!! It is sometimes 0 range in 3 metres from the router (1 story above)I am now thinkin about buying another router as a repeater.. Disappointed with this router..",3.0
+"Dear Buyers,If you wish to enjoy high speed internet through wired cable you may just close your eyes and buy this wireless router.Ian not a technical person and had taken reviews from people before I finally decided on this. The product is very light, can support 300mbps speed through wireless network. The configuration or set up is very easy and not at all time consuming.Next is it does not consume too much of electricity. It consumes just 5 watts. Also the manufacturer provides 3 years of replacement.I would strongly suggest high and heavy data users to buy this wireless router. You will really like it.",5.0
+"Observed high latency even at 5-10 feet radius when connected via wifi, issue has been reported to tech support. Although tech support folks are comfortable to connect with but issue has not been resolved.",2.0
+Last 15 days reset request required to router and we are helpless for such request because after complaints to service provider he suggest to get replace the router which is in warranty. So I need help,4.0
+"I purchased this TPlink wifi router on 20 July 2020. After using TPlink wifi router, I am getting very low internet speed on desktop and Mobile phone. This problem should come under warranty period. I have wasted so must time to fix this issue but it didn't resolve this problem. I want to replace it.",4.0
+"The best 300Mbps Wireless N-Router at this price, purchased it at Rs.899 from Amazon.It's working like charm close your eyes and buy this product. Installation is very easy and it also have "" Guest Network"". Service from Amazon was best as usual and the product got delivered before the expected date.",5.0
+This one is a worst product. Network coverage started getting poor within just 12 days of purchase. .just missed the well calculated return policy. Kudos to that.Never ever ever ever buy this.. wanted a large coverage and it can't even properly cover two adjacent rooms,1.0
+"Hey people DO NOT BUY THIS ITEM. i purchased in last 8 months and now getting disconnecting lot of time. this again and again need to reboot to re-start, sometimes its start start but not all the time.",1.0
+Received this product within 2 days.Wireless router is easy to install but found some range issue with 3 antina.Otherwise overall product is really good.,4.0
+"I bought this router for Rs. 850 during the Amazon sale. At that price, this one's a steal. The double attenae doesn't quite offer wider range than my old single antennae Netgear router, but the range is still quite decent. I'm currently using this as a WiFi repeater to extend the WiFi signal from my old Netgear router, and it's been working quite flawlessly for the last month or so.",5.0
+"My old 150mbps router is better than this, facing huge problem in wireless connectivity within 3-4 days of purchase, all devices are getting disconnected automatically. It happened several times. Requested for replacement, will update later if that's also defective. Didn't expected this from Amazon.",1.0
+हमने 1099 रुपय में लिया  2 जून को मिला 3 जून को इंस्टाल किया ! 10  जून को ख़राब हो गया  अब ना तो कुछ वॉरंटी ना ही रीफ़ंड कर रहे कस्टमर careमें भी कॉल किया था कुछ नहीं हुआ,1.0
+The range is very bad. After reading many positive reviews I bought it but the range is very bad as I am moving to a different room the signal strength drops and in some rooms even the internet isn't working.Highly disappointed,2.0
+Not a very far off range but good enough for a mini-1-BHK. There is a drop in the signal sometimes but overall running fine for a month or so.,4.0
+Using TP link router for more than 2 years now... Never seen any issue with range..... The wify range capture my basement parking as well from 3rd floor. Must recommend,5.0
+"I was a bit weary of buying a TP-Link product instead of a Netgear or other better known names but quickly found that this is exactly what I needed. I needed a 300mbps N router to boost my Hathway speed to the prescribed 50mbps and was waiting for the price to fall below the listed INR 2,800 mark. I jumped at the offer of INR 849 on Amazon and do not regret doing so.Setup was easy (just follow the booklet and use the disc provided), my speeds are amazing at 50+ mbps and the range across my apartment is fantastic. Couldn't have asked for more.",5.0
+Good router at this price. Covers my entire house of an area of 400sq ft wytout any problems. Easy to use and install. Total Paisa Vasool,5.0
+A very useful and leading wifi company from last 8 years...it's range is too long ....And the speed is fantastic..I think that each and every one should buy this router...this product is Amazon choiced..Mi router is very 3 Rd class...it range is not able to com with only 5 feet..,5.0
+"Stops connection abruptly at times. Despite signal and connectivity, wifi doesn't connect and I have to reboot.",3.0
+Online information mentions the range of router to be 30 meters but router does not even provide range within 10 meters. Bought lower version router cheaper than this one (WR841N) and received better range for wifi. Hence paying extra money for router that gives wifi range less than lower models is not worth it.,1.0
+lovely product and good range. using it now for about two months no probs in connection. the only thing which was bad that i did not get any installation cd as mentioned. and i got 2.5 dBi instead of 5 dBi as mentiond by the seller. overall nice and lovely product at this price. and best for home purpose.,5.0
+The best thing i found was easy replacement. And its working fine now. Due to heavy lightening the device was damaged. Called the tech support they were informative and assisted me throughtout the procedures. The product is really good for home!!!!,5.0
+As mentioned speed was ok.. but signal isn't that much wat they described.. though it has three antennas i didn't get signals as they mentioned.. finally u can buy this product for speed,4.0
+This product is best i prefer tHis product but some times the wifinrouer is not  giving wifi signals that is rare but it is nice I prefer ypu own this product,5.0
+"Please Note that, It's a Router not a Modem or Modem+Router. That means, if your internet provider, e.g. BSNL gives you RJ45 port for to connect to your internet device(Modem), then this router is not going to work. This router has no telephone port, only ethernet port, so if you have telephone port or RJ45 port then you need to buy Wireless Modem. This router works only if you already have a modem and you want to connect it with ethernet port to your router for different kind of networking in your office or house. So please beware of this fact before ordering. Otherwise, product works well.",4.0
+"Best of TP-Link product,Best features in this.Security featuresGuest Wifi (in version 11)Lan Bandwidth controlIEEE 802.11 Wireless Security FeatureNo heatingAuto ReconnectMac FilteringDouble AntennaLong RangeRed Light indicator if Internet not availableRemote controlDNS Feature, etc",4.0
+I needed to upgrade my WIFI speed to 25 MBPS as my old router could not support it. So I bought this one and it works like magic. 15 days since I have been using it and there is no drop in the signal and the range is good enough to cover a 900 square feet area.,4.0
+Nice packing ... Product also looks good in terms of built quality.... Lane experience is smooth but struggling with WiFi range...  after 15mtr range signals are very low.,4.0
+"The product works fine but it was used product. Package did not contain installation guide as mentioned on the box. Charger wire, lan cable was not packed like they do for new products.",2.0
+Very bad customer SUPPORT...... I ordered my WiFi and after 6-7 days My wifi ADOPTER stopped working..... For that I mailed to the customer care for REPLACEMENT  to to link but they didn't reply till now...... After that I buy new adopter and started using...... But WiFi signal is very good and WiFi device quality is also good.,3.0
+It did not even come on. Defective product. I should have opened the package as soon as I received it. Can't even return it now. Very sad.,1.0
+"This router has been in use for over an year now.I am happy with it. Good range and rugged. Never switched off except during power cuts and vacation trips!However recently I purchased a ""Teewe"" for streaming media on to LED TV. Its NOT compatible with Teewe.",4.0
+"The signal strength is good, with three antennas for better area coverage. Good product in the price range.",5.0
+Not a single issue with the product. Easy to install and use. Wifi strength is really good. Having 700sq foot flat and it covers it all. Worst part is that if you are willing to list the product in company's website for warranty purposes it allows only product which are made for USA. Rest everything is perfect.,4.0
+"I live in two storey house, installed this on ground floor near stair and I can't get proper signal on up stair room which is hardly 3 m and 2 m elevation.Very disappointing.It was very easy to set up for use at home.",2.0
+"Good router for price ,I got version 10 of this router with 650mhz atheros processor. Flashed dd-wrt on the same day of receiving the router and boom I got the most features out of this router.max tx power of antennas is 21dbm which gives good range for upto 250mtr max over line of sight, and last I have given 4 stars due to poor delivery via India post, it took 17days to reach me.",4.0
+I'm using it as a WiFi extender with DIR 615 router working perfectly almost one month has been gone no issues. It's router cum repeater.,5.0
+"Your browser does not support HTML5 video.
+
+
+   After using this product around 2 month i had to say its value for money product no issues wifi signal are strong. Not needed Tech support team till as its very easy to install.I just loved it.",5.0
+If you are in 3000 sqft  but less than than 4500 sqft if house it's is okay I would recommend an extender to for same speed all over the house,5.0
+"Its good product, relatively good administration UI and functionality(such as port forwarding and bandwidth limiter, though most of normal users don't need it)",4.0
+I am using this product for last 15 days and I am very satisfied with the stability of the link and performance at a short range.At a mid to high range the performance is not great but usable!overall I am very happy with the product.Would recommend for the budget buyers (who don't want to spend money to get high power variant),5.0
+"I received a product which is not working and due to which I had to face a huge problem in my work so I bought it from local marketproduct which I got is not at all working, i am very much upset with the seller who provided the faulty product which was not working.",1.0
+This is the worst product ever. I am writing this after one month of use. My internet speed is 45 Mbps but router passes only 4 Mbps.  When I connect direct cable to laptop i get full 45 Mbps. This is completely useless product. Don't ever buy it.,1.0
+"The modem had great packaging and was delivered in time. After hooking it up, it worked very well however it wont do the job alone if you happen to have thick walls or a big house. In my testing period, I could only get good enough signal for my room and hooking this up with a signal booster might help.",4.0
+"For 1000Rs this is a good router. Have used this router for more than 3 yrs. And I had 100mbps plan. But this router won't give you speed more than 15-20 Mbps if 4,5 devices are connected. Information on box about this router is misleading.Don't waste money on this.., instead spend 1000 bucks more and get a gigabit router.",2.0
+The wlan/wifi suddenly stops working but the lan works so I had to restart the router in that case.Not sure this happens to the other routers of the same model but in my case it does.,3.0
+This router is not working as repeater mode. I think they have intentionally disabled it because TP-Link have launched their independent Repeater series. Even tech-support doesn't know how to fix the issue.,3.0
+"I have been using this for a month. It is a good product and has a lot of functionalities and features with good enough signal coverage. I used D link 600m before and it worked well for about 3 years with 25% less signal coverage than this one, on one antenna.. My advice, go for a double antenna D link router",4.0
+"Installed today , working fine . Very lite weight and compact design . Best buy under 1000/-",5.0
+No issues till date. It's been almost two months now. Good connectivity. I have 100mbps plan and I easily connect my 5-6 devices (whatever I have at home) and get full speed (according my plan). That's it. Good product. People can go for it without second thought 😄,5.0
+"The router malfunctioned within 45 days. Waste of money, extremely dissatisfied with TP Link.",5.0
+"The router is perfect for normal home usage with a decent range, but not as good as the 450mb WR940n. The router does the job very well. Data transfer rate is good enough and it can connect up to 10 devices simultaneously.",4.0
+I had purchased this 4-5 months back. Within that time period I had to reset wifi because it stopped working out of nowhere. After resetting it started working but I never had this problem for any other router I have used before. Will not be buying this product again,2.0
+Purchased this product so as to use it in Germany for my son who's studying there. Happy to share that the product is super n it is working fine,5.0
+"The router is stylish looking but as specified, signal range is low. Centrally placed the router in my home but In the corner rooms of my house i.e. 10 mtrs away signal is very low",3.0
+I am using it for last 2 months and product works excellent as mentioned.Pros:1. Light weight2. Easy installationCons:Nothing.,4.0
+"Had high expectation about tp-link product (range), its wifi broadcast range & transmit power is low than my expectation. When there is a barrier like door.. signal drops heavily.  Excellent package and delivery.  TL-WR740N & TL-WR841N has similar WiFi range except bandwidth. So if you are in confusion in buying TL-WR740N vs TL-WR841N, please go ahead with TL-WR740N as you may save Rs 200+.",3.0
+Guys you can blindly go for this... If you are comparing with D Link this is best... I had worst experience with D link.. TP link I have configured only once at first time.. till now I have not faced any issues.. go for this I got this for 999,5.0
+It has good range of WiFi connectivity. Setup is straight forward and clean UI for setup. Didn't face any issues yet.,5.0
+"Quite cheap and good wifi single band router. Range is moderate and after 2 walls, I could get wifi speed about 30mpbs for a 60mbps connection. LAN switches are working good with full speed on my broadband connection 60mpbs. Setup is quite easy.",5.0
+"This is the second router, Everytime the power switches to inverter the wifi stops working.",1.0
+The Wifi speed is very low inspite of good internet connection. Old machine of same TP link of 300 Mbps is much faster.,3.0
+"Router is good but there is no return option available. Before I open this router, i got another one from another source. Thought I would return it but there is no option for return. Too sad",3.0
+"I have expected more singal strength or wifi coverage, But upto the marks.Lookwise is perfect, functionality is good.",4.0
+range and speed better than tp link AC 1650 dual band gigabyte mesh router !!,4.0
+I purchase (TL-WR841N from TP-Link) after reading a lot of reviews from other buyers for this product. Completely satisfied with the product as per my requirements.Its cheapest rate router compare to other brand.* Good looking & compact router.* Super easy to set up.* Web based utility does a good job in controlling the router.* All required instructions for easy set-up are provided.,4.0
+"The router when connected has a username already set up, indicating it was not a new one but used one. Very disappointed to receive a used product",2.0
+Pathetic product. Just leaves signal. Got a IT head of a company to chk.  Need replacement. I don't think I can ever promote this company. Just avoid.,1.0
+Quite good. I'll recommend going for this though it is a bit costly but then Quality and performance are pretty good,4.0
+"Best product . Using this from past 6 months . Cool experience. But one drawback If suppose wifi device connecting to this is already ON and then if you switch on router sometimes it wont connect to internet . I found the reason for this , TP-Link takes first 1-2 mins to authenticate with broadband to which your are connecting and before authentication from router is complete if we connect our device(mobile) then authentication error will be seen in router logs and no internet access possible. SO best way is switch on router first and then switch on other devices after delay of 1 or 2 mins.",4.0
+"Excellent productGives good range for 3bhk 1650 sqftHowever, know that the speed degrades with walls or any kind of permanent structure. If it's near to a wireless router sometimes it seems to not get picked up but that's true only when you have two 5ghz router placed on top of it :-) crazy but I tested it.",5.0
+Great router under budget overall good functioning but the signal range is somewhat poor as compared to other otherwise a good product and fast delivery by Amazon,5.0
+"This router has 3 antennas but still it is covering very low network area.I don't know why this happening.Is there any settings?.. I have to do to solve this issue .. if no, I suggest people not to buy this product if you are looking for a router with wide network coverage.",3.0
+"Worst router ever made !!Disconnects all the time!!Something important you are doing it will disconnect.Amazon is not allowing to return , only replace , what to do i don't know .",1.0
+Writing this review afte 6 years. Working properly. Signal quality is good. Helping very well in this pandemic for WFH. Satisfied with product.,4.0
+"Here are my reviews for the productPros:1.Range is great,I have a 1300 sq.ft flat and the signal bar drops by one when in the farthest room.2.Easy setup it took me just 3 minutes to get it working3.Link speed is fast at 300 megabits/secondCons:1.The power adapter produces a high frequency sound when plugged in.Its not that much noticeable.2.Amazon's delivery (I know this isnt about the product) it took 5 days to get here as the delivery failed on the first attempt.One thing I would like to say to amazon is please deliver the products before 7 pm as mine was delivered at 8:46.Summary:Go for it,its a great budget wifi routerPS: you need a modem for all those noobs out there",5.0
+"HiThis product has 3 years warranty, here we don't have any contact details for warranty related info. Now this device is not working.No physical damage and nothing.",4.0
+"Bought this based on all reviews here and have been burnt. Not literally, but figuratively. The signal keeps dropping like there's a wavelength issue. Every time we switch back to our old router everything is great. But when we put this back on same problem. So have had to discard it. Waste of money.",1.0
+"the manufacturer should use their brains , they did not provide provision for wall mounting , neither the mentioned in the product datils, am stuck with the unit and of no use as i opened the box yesterday",1.0
+"Good router at a good price, quick delivery by amazon, works like a charm, using it since over 2 years. No complaints, never disconnects automatically. Reconnects automatically after a power cut.",5.0
+Been using this for almost 1 year. Found no problems with it. The only issue is that when it is turned off from the main power source you need to restart it from the power button given in the back of router otherwise this product is good to use.,4.0
+"The product is truly awesome. It does not heat at all, no matter how many hours you keep it turned on.Also if the broaband signal drops it reconnects almost instantly.I have heard many people saying that the range is less compared to other routers. And its true compared to other two anttena routers range is slightly low but considering the price point of this router i believe its far more value for money that any router within the 2000rs price range.Overall go for it if you want a decent, affordable  and easy to install router.",5.0
+"Its a Good Router with Stable Internet access, but if only ur internet speed is lower than 40Mbps, more than that will not give u stable high speed, my 100 Mbps connection get maximum 50 Mbps to 60 Mbps, where as via LAN its gives 90 Mbps to 100 Mbps.",3.0
+This product is not working just within a week unfortunately return window has been closed. Is there warranty period for it or can I get it replaced with new one.,3.0
+"Good product, works well. No fuss Router. Advantage is it has a on-off Wifi button, but I noticed that on connecting to the Mobile by Wifi, the speed displayed on the Mobile shows connection at 150 Mbps. I thought it should be 300 Mbps ???Merchant Kindly explain? Otherwise a good product. Thumbs up !",4.0
+Diffective product received..... Router is not getting power on.... Also not showing any lights of connectivity..... Shocking that getting this kind of worst experience from Amazon. After return instead of refund they requesting for replacement of product. Very bad Amazon,1.0
+Amazon is providing the cheapest deals compared to online sites and local shops (even Ritchie street). This product performs amazingly well. I always connect more than 5 devices and there is no problem. The range of the Wifi is very high. The signal reaches my 3rd floor terrace when my router is placed inside my ground floor house. Kudos!,5.0
+"Superb signal strength - have connected a laptop, ipad and 3 mobile phones - range distance is also awesome....really amazing product.",5.0
+Wifi gets auto disconnected and some time it shows no internet connection while there is internet connection and some time not able to connect to wifi. And this issue is being more frustrating coz I bought this router 1-2 weeks ago,1.0
+"Good range and high speed internet connection thought the house, can handle upto fifteen wireless device if the internet service is good.Update after using for one and half year, still working fine excellent product at this price pointJust go for it",5.0
+"Your browser does not support HTML5 video.
+
+
+   I thought the installation will be critical but not, very easy 👍. Single range also very good.",5.0
+Received different model then shown in images. Router design is totally different. Though router performance is good.,1.0
+"The product is varry good , and i get it in great price , but there is 1 question is i used last yp link rauter there is orange  light for no internet and this new one have internet and orange light continues blinking, so i dont understand this",5.0
+Some time it stops working then i have to repeat the on..off process but it provides android app support which is nice,4.0
+"Good ,but not good for extender mode . If you want to use this as a extender ,my answer is don't buy .",3.0
+2nd time purchaseProduct is working till I got around 7mbps but maximum time 6mbps good WiFi router and having 3 years of warranty so keep but without any doubtI don't need tech support yet so it's going well and price also goodI want to buy xiaomi but this also better one,5.0
+Dual band helped to get the maximum speed from ISP. Earlier my laptop was using hardly 5 Mbps. Now with this dual band I am getting the maximum speed of 50Mbps,4.0
+"The product is Defective one. Wifi button is not working properly. Sometimes It Working Sometimes Not Working. I request for replacement, the reolacement item delivered to me is duplicate one, they delivered me different item, there is no LAN port indicator, no power on-off button, no wifi button, and the product is used one. Packet of the product is damaged, product is duplicate.",1.0
+Router worked fine for a couple of days. After that it started giving a lot of network drop. Have to reboot everytime to resolve it. Even the replaced product showed same issue. Hence returned it and requested for refund. Not recommended.,2.0
+"Nothing to mention, this router is very handy for our regular use and you already read the descriptions..So I am using it without any complaints.. go get yourself one..!:)",5.0
+"Although I ordered this and returned it unused as coincidentally I got gifted with another router, this one is very good and for it's price you get a good bang for the buck in terms of coverage, features and settings. I have used and using other TP-Link products and they have not let me down yet. Their support is also very good.",5.0
+"Hi Guys, I am using with jio modem for wifi signal as well as speed enhancement ...""THIS IS ONLY USEFUL TO INCREASE WIFI SIGNALS NOT WIFI SPEED""  speed of internet is similar with or without router. Not Happy :(",3.0
+"This the best router under rs.1000. I bought it for 899. About the router, it is best in this price range. It is very easy to set up as the user manual gives clear instructions on how to use it. It is a bit smaller than its older version which I have 3 years ago. It has a new and long antenna. The strength and range of connection is very good. Definitely go for it if budget is 1k.",5.0
+"Good Product and as always On time delivery by AmazonBut i don't no why I wasn't able to access Torrent websites.Later on I checked that my country was mentioned as US may be thats why, So i again confihuered my wifi and my country changed to India✔ but still I wasn't able to access torrent sites Beside that I don't find any reason to criticise it",5.0
+Would have given -1 star as it did not start at all. Applied for return but they couldn't pick it up during lockdown and now it showed that the item is not eligible for return as it has missed the return window. So it was a complete loss of money.,1.0
+Got delivered within a day. Package was sealed. And setting up whole thing was a piece of a cake. Wifi range is pretty good as well.,4.0
+Used the router for 1 month. Works fine but has the same power as a single antenna router. Not much difference. Advised to check other models with more WiFi range compared to this at same price. Delivery by Amazon was good as well as packaging. Product was delivered on time as promised.,3.0
+"I purchased this item about a month ago but suddenly it stoped working, first I thought it was not able to get electric current from plug so switched to other one but still did not work. It’s been a month and the item has stopped functioning.",2.0
+Good Product for Cable broadband. Great speed on wifi on multiple devices connected at the same time. Value for money,5.0
+TP- LINK this router is value for money. You get good signals always and the service is awesome but the only problem is that after a year you are start facing network signal issue but no worry but there is service centre they will help you out,5.0
+There is not much improvement in signal strength over WR740N. That is a bit disappointing. But I have been using Tplink routers for quite some time now and they are reliable.,4.0
+Defective and used product was delivered. We identified it during initial login on tplink portal. There seems to be software issue as router was not getting identified,1.0
+"Very good UI for configuration. Good security features. Wifi coverage is a bit less than expected from the 2 huge external antennae. But in a price of 999, honestly, there is nothing to complain about. I always recommend this particular router for all home users looking for a cheap router with average range.",5.0
+I already have tp-link 15Mbps router. But some rooms of our guest house couldn't access the net so i orderd this one when i installed it i was very disappoint cause of range of network. Believe me it was same like 150 Mbps router. I am waiting for pick this router up.Total waste of money.150Mbps and 300 Mbps are same than why to buy 300Mbps tp link router,2.0
+"Best router in the price range, it comes with the upgraded firmware anf it supports VOWIFI, if your phone supports it, the rated speed of the router is upto the mark",5.0
+Money wasted I have a 200 mbps.connectiom and I ordered this reading the tagline 300 mbps. It only supprts 50 mbps on the phone bciz itnworks only in 2.4 ghz and not 5ghz . If you have plan of 50 mb PS then go for it.,1.0
+"Amazing router from TP-Link, been using from last 4 months, never had a problem. I use fiber optic connection at home, never had any issues either with the connectivity or with the modem.",5.0
+"The wifi signal for this device is very weak, doesn't work like what was expected, heats up too quickly and the channels also also fluctuate very frequently, on a wired connection it is fine but in wireless u need another ap if u want stable connection for your wifi internet connection",3.0
+Good easy setup and working good since the past 2 days. the only disappointment is that I purchased it for Rs. 999 and in 2 days while writing the review I see the price down to Rs. 949.. So unfair.. LOL !,5.0
+"As always, this particular model of TP link has stood out from the other products in this range. Pricing is just perfect for the below 1000 range. Wifi quality and range is pretty awesome and strong. My 1200sq ft 3 bed room flat was accessible with wi-fi from any corner. I stay on the 2nd floor but the wi-fi could be accessed outside the gate of my apartment. No problem with 4-5 parallel running devices (of course this depends on your connection speed). The device looks good, is low on maintenance, does not heat up and can be placed at any location of your house. This is the 5th no. I have ordered for my friends and family. I recommend this to all for home or small office purpose.",5.0
+"Value for money product with good connectivity at home. I am using this for my home purpose and having 4 devices connected, used from all corner of my home. This works really fantastic.",5.0
+"This product is priced very reasonably, and has top-end features (such as dual antennae, and 300 Mbps transfer rate). It was very easy to set up. However, the signal strength inside my house in rooms that are away from the room where the router is located is less than with my old Linksys WRT54G, which is disappointing.",4.0
+Not Good. I was a little doubtful at the beginning but it has been working fine till now but it finally stopped working. Did not think it would stop in less than 2 months. Disappointed.,2.0
+"The product is made in china, but it's running very good, we almost using this product from past 1 year. the signal strength and speed is very good. No any technical issue and very easy to install for a mobile app.  4.5 out of 5.",5.0
+Range is ok. Not what i expected but better than my previous router. The dual Antennas help a lot... Simple configuration..  No Problem even after 7 months.  While my old router gave 3.4 mb/s download speed this router goes up as 12 ~ 14 mb/s download speed. (Our ISP is awesome) and has no lag issues.,4.0
+Very poor router from tp link very poor range and drops the dns server now nd then. Not at all happy with the buy.,2.0
+"The drop in bandwidth/speed is high. While the input was 50mbps, the output was 30 Mbps at 1 meter distance !! Using the running apps, the channel was adjusted too. Yet, reduced speed. Not impressed",3.0
+"Very good router, it can cover perfectly a 3bhk flat, its range of coverage area is great. And also a great deal from amazon. Amzon rokz!!!",5.0
+"Poor quality signal strength, this router has 3 antenna however it works like single antenna. also connections are invisible many times. item is not as per description.",1.0
+Well 300mbps router should cover a house with 1500 sft..  But nah.. It just doesn't.. Sad but true..Had to buy their WiFi signal enhancer as well.Well it works 24/7 non stop without complaints.That's the good part..,2.0
+Very bad..Not working now...Not complet one year...And not warnty service..,3.0
+I dont know what is the issue with this product. I had iball baton router before this one which had 2 antennas and was getting good range in my house I upgraded to this router hoping i will get better range but highly disappointing range is even poor then i ball dont know if the router is defective i have asked for replacement lets see if the problem goes away.,1.0
+Range is not good. Has disconnection issue. Need to restart daily,4.0
+"Gud, easy to install, u can manage wifi pasword and other setting through tether app",5.0
+This router is the best... It has a huge network area and provides stable connection... Worth every penny... The best router in the price range...,5.0
+Serves the purpose ... using it for a year....No complaints as of now,4.0
+I am using this for almost 3 months and never faced any problem. The installation is also very simple. I recommend this product.,5.0
+"I'm been using it from past May 2015, it's still working for my old house, so the credibility and reliability of this router made me buy second one where i live on rent and it's working absolutely fine. The best.",5.0
+The product is not working at all. I am in remote area. Can't go to the service center in this pandemic situation.Who are living in remote area. Don't try the product because the service centres will be in city.,2.0
+Budget router and serves its purpose well....too light Weight..... Good-looking.... Signal range strong.... Happy customer.... Seller also good and prompt - Appario Retail Private Ltd (Fulfilled by Amazon),5.0
+Nice product I have ever used but need to improve accessories quality,5.0
+Router works fine but sometimes it's signal disappears automatically and reappears back/ need to turn off then on. And I have faced this issue when my important meetings was going on.so giving it 2 star,2.0
+"Go for it, it's working fine with ACT fibernet.Only things is you have to set wireless IP setting to PPPOE from dynamic IP. So It wont prompt username authentication evrytime you power off the router.",5.0
+"I bought it on Rs 999 in offer on 2018 for my hostel. 2018 to 2020, no servicing is required. After 2020 , I have not been used because I returned to home.Value for money.",5.0
+Very good router and I am using it as a range extender to my existing Modem/router. It was very easy to setup the router. Signal strength is good within 3 BHK house. So far I am happy,5.0
+"I used to have D-Link ADSL earlier kept at the same location in the house which was giving better coverage with good strength. This router works great if you are near it, but as your increase the distance the performance drops drastically than one would expect. Overall it's fine at such a low price.",3.0
+"Easy setup to configure your broadband settings into this tp link router.Range is also very good.Tp link Tether app features are also very good like guest mode, block n unblock , changing the password and parental control.Blindly go for this router if your budget is ₹1000",5.0
+Rich functionality and you can also choose to run DD-WRT open source software on it. But the stock firmware is fine too. I however experienced fairly frequent Wi-Fi disconnects. Firmware upgrade has not helped. So I have gone back to my trusted Linksys EA3500 (which unfortunately does not run DD-WRT).,3.0
+"This router is easy to install. It's covers my entire house area.The only disadvantage I would say is that it disconnect sometimes on its own, then we may have to turn it off and on again  . Overall it's good for this price.",4.0
+A nice router for a decent price.Pros:1. Great range (Probably the coolest factor with this piece. I get signal across two rooms in a 3BHK with intermediate walls.)2. Decent price3. Tons of features4. Ready image available on DD-WRT for V10.Cons:1. Significant packet loss and high intermittent latency when configured on B+G+N mode.The one I bought is v10 and there seems to be no OpenWRT official image yet for this.,4.0
+Sometimes router stops sending WiFi signals. Needs restart. Sometimes WiFi works but there isn't Internet. Needs restart. Even router doesn't have on/off button at back.,1.0
+It's works very well. No drops. It easy to setup. I have been using it for about 3 months almost continuously with no problems.,5.0
+I ordered this router thinking it will work as modem because  i needed a replacement for my existing adsl2+ modem cum router so had to return it. People with lack of knowledge about routers and modem like myself should know this is a router and not a modem. It won't work without a modem. Product was delivered before date and refund was also issued promptly.,4.0
+"Needed a router with holes at the back, for wall hanging. Delivered router does not have holes. The reviews misleadingly suggested that the router does have holes. Plus the router doesn't have a return policy.",1.0
+its range is about 15feet in circular....not strong even 1floor down or up... but good fo the same floor..,4.0
+"Not a good product. After using it for a month, had to uninstall it as there were severe packet drops. Unable to get any resolution, neither replacement nor technical support. Had to switch over to MI router.",1.0
+Nice product as mentioned in the specification... Signal range and speed also very good...easy to install and Amazon package is also very good... Simply go for it..I'm using it from last 5 months.. Cheap n best product...,5.0
+"So far so good.All I wanted was full inter speed over WiFi for my 100mbps connection, and this router got it covered. 👍",5.0
+Got before expected delivery date.. easy to install in 5 mins.. working as described and expected.. worth it.. Thank you Amazon.. Keep Selling..,5.0
+"The Packaging from amazon was good..the product works fine, it comes with a C.D..which contains a software through which you can configure you router..or else use this ip..192.168.0.1..the price is good other than any website..",5.0
+Worked fine for 2-3 months after that you willl start facing the issue. It's not stable. You'll constantly face the connectivity issue. The output of the data is not working. Won't recommend,1.0
+"Easy installation, good wifi signals. Average rated product at this price..it works very good as signals extender..than router.",3.0
+This is a very good router for home purposes. I am using it with my Eronet broadband and getting the promised speed. Has more features and I am happy. Thank you Amazon and seller!,5.0
+"dis pointed , losing signals frequently and some times pockets lost.",1.0
+"Very good, easy to setup, and Android app to control who can connect to wifi, overall good",4.0
+"Router came in proper packing and it was easy to install. If any wants to use it as router or extender, you can go with this product.",4.0
+"The setup was complete in 2 minutes flat, Navigating to 192.168.0.1, following the wizard and entering the ISP credentials. That was an awesome experience.",5.0
+"Don't buy this product bcoz of very low signal strength. It just cover your maximum 1 room, if you are living in 1bhk flat then go for it, but if you aren't then please don't waste your money on this device",1.0
+I purchased tp-link router TL-WR820N on 28/9/2020 it was working when i switched on the router on 16/10/20 the swtich light is not showing please sort out the problem what am facing.ThanksReagrdsJorden Creado,1.0
+Quite a good product.wifi signals reach even outside my house really well.looks👍tech support 👍,5.0
+"Easy installation and Awesome range - Total value for MoneyPlaced the order with seller SHOPPING KART on Saturday, 23rd Aug 2014 in late afternoon and got the product on Monday, 25th Aug 2014 early morning. This is lightening delivery at NO extra cost.Amazon's most competitive price coupled with lightening delivery makes it the best online shopping mall.The TP LINK WR 841 N wireless router is a beauty and it was out and running in 5 min stat. The configuration setup is too easy - connect Router with the cables to the modem and laptop and just run the easy assistant setup from the CD provided with the product.Range is beyond awesome.I am getting 4 signal bars upto last room of the 2200 square feet apartment which is across four 18 inch thick walls. The range also covers my terrace where i am getting 4 signal bars bars and also 3 signal bars on the ground floor (Router is placed on second floor)This TP LINK WR 841 N router is the latest version 9.0 and till date will NOT support the DD-WRT firmware which is OpenSource firmware that can unleash other feature not supported by the STOCK firmware provided by TP LINK. Anyways till the time my warranty with be over i guess DD-WRT will be supporting Version 9x alsoMore indepth review after the product is tested deeply. maybe do a video review !",5.0
+Received defective router. Not able to contact customer care number. Managed to contact through mail. Now they are asking to courier router to Mumbai service center for replacement.Pathetic,1.0
+"Product is easy to set-up and hardly takes time. internet service providers can help with the set-up.amazing range, signal is pretty good.",5.0
+Can not access once I go out my room...But in room speed is amazing.,3.0
+The product is not what was expected. This product does not support more than 4 devices and hangs quite often. Good for low usage. It has to be rebooted to functions Correctly.,2.0
+Router got delivered by Amazon within a day. Tplink is one of the most widely used routers and it is so easy to setup. My internet is up and running within a day.,5.0
+"After reading lot of reviews I bought this product.I found it's a decent product for this price, but not exceptional.Quality is good, Very easy to setup.WiFi Range is Good but not Great. Good for a small 2bhk house.I had the same wifi range with my old single antenna router.",4.0
+It posed connectivity issue with Amazon fire TV issue which I changed twice for this concern. Also it could not deliver a speed greater than 40 Mbps at a speed plan of 150mbps.,1.0
+It's already a tested product. Using it about an year and have same from a couple of year back. Running 24x7 without any problems as modem as well as repeater. Super easy to config.,5.0
+"The product arrived in good condition with prompt delivery by amazon...its been less than a week,I am using this...so far looks good...provides full wifi coverage when near the router...fades away slightly when at a distance...good value for money as this is a 450 mbps router coming in same price  as that of a 300 mbps one",4.0
+Robust product with very good range and speed. I have installed it as wall mounted near the cieling of my room which is on the fourth floor. And you will be surprised to know that i can get signals even on the ground floor and outside the building and that too ot good speeds (can easily make a whatsapp call. Its been more than one year using it and there has been no complaint so far.,5.0
+"Worst product, Modem gives up to 240 mbps but router delivers only 10 mbps",1.0
+"after using some months dhcp function of this router is not working properly.I am using a internet connection of 50 Mbps but it only gives 5 Mbps speed.So, i suggest not to buy this one.",2.0
+The TP link WR841 is different from WR840.DON'T get fooled. The WR840 does not have DD-WRT if you want itAdaptor failed in 7 months.. beware for occasional usage,2.0
+"This router sometimes does not store the credentials when connected via wifi and seriously difficult to fix by reset or reboot. simply irritates and fixes itself, unreliable products, not able to edit and view the credentials settings so that we can update. some how using it :(",1.0
+"This product is good only if you are in the same room and the room is small. The moment you step out of the room, the signal strength and speed are drastically reduced. Worthless as a home -router, without a repeater of some kind.",2.0
+Worst Wi-Fi everIt automatically disconnects and after 3-4mins connects automaticallySo irritating when I was in work and in other stuff. 1st 2-3 months it worked good and after its nasty and worst now,1.0
+"I've used this router for around 4 years, and it has never disappointed me. The signal range is good, as expected.Recommended.",5.0
+"I used to think D-Link was superior. Had never used TP-Link used previously.Easy to setup, simple UI, and strong WiFi signal.",5.0
+"Worst experience with TP Link Service center with in purchase of 1 month adapter is not working , when ask for replacement they ask me to visit their Vasai Factory. Travelling there is not possible for working class person.",1.0
+"Signal s good to receive n transmit,  installation easy",5.0
+Although the router is good but the router that has been delivered is now similar to the  images shown on the Amazon website it shows it has multiple led lights but actually has only one led light,3.0
+As the antenna's are 5db and there 2 of them so the connectivity is superior. Works like a charm with multiple devices. It also offers MAC ID duplication which can be used to mimic your earlier router MAC ID to run your connection in case your ISP has locked the service to the MAC ID of your old router.,5.0
+The installation was easy because a lot of YouTube videos available. Signal is also quite good and decent look.,5.0
+"Do not buy such products from Amazon, my product stop working in 10 days, when I approached for warranty tp link does not give me responce till date.",1.0
+"U will get full bar of wifi within a room where u place this router but power will be less another room, but no connection drops , set up is easy for cable broadband connection. Performance almost as same as netgear.Good thing is u can get this router under 1000 if u are not in a hurry so no point to invest more .",4.0
+Excellent network reaches every corner of your house if you don't buy it's your loss,4.0
+This is a good router being the fastest 11N router the range is good and speed is decent being a 2.4Ghz router but also depends on your subscription of wifi company overall a good router don't see fake comments just buy it,5.0
+over all its gud..but sometimes it is not detecting the wifi,4.0
+"Am writing this review after using it for a month, it is amazing in this price. Quick connect. No need to restart if you use many hours. Easy connection setup. 300 mbps transfer rate also good but Wifi strength is little week around 40 to 50 ft. Place it an open area. And amazon is amazing in delivery and packing",5.0
+I'm using this product for last 3 months  there is no issues related anything . It's working very efficiently with wide range of coverage area.1. If we talk about build quality is very good and well design with descent look .2. If u see the size of the product is well compressed you can put it any where.3. If u see price of the product . It is pretty good in this budget,5.0
+Can even support 50mbps connections.But gr8 for upto 20-40 mbps,5.0
+Range of Wifi Single is so weak ...D-Link Routers Are good enough than TP- Link...Waste Of Money....Don’t Buy It ....,2.0
+There is a problem with this particular model. This was information given to us by service center. We got a replacement.,3.0
+I have been using this router for more than a month now and works perfectly fine in 3 rooms and my balcony. According to me it has a good signal up to 20 ft. approximately and weakens therefrom.,5.0
+Good deal if you get it around RS 1000. Range isn't good enough to justify spending more. Does what is advertised. And does it well. Looks good too!,4.0
+Good wifi signal range and easy to configure,5.0
+I don't know mine was a fault piece or what but it disconnect automatically after 6to 8hr of use and doesn't reconnect automatically. I have to restart it manually by unplugging the power supply..Not so good product. Not match my expectations,2.0
+reaches most corners of mid-sized home with good signal strength. but it drops soon you go little beyond doors.,5.0
+The worst product. I will never recommend this to any one.no proper signal and the range is very less...not worth at all. I don't have the option of returning also in Amazon and I have got only option of getting this replaced.,1.0
+"Easy to setup..The range is quite good thanks to the double antenna..Web Setup/Monitoring.. Mobile App monitoring.TIP : For all those concerned with range issues, you can lower/pump up the transmit power of the router.Access the setting by opening tplinkwifi.net while connected to the Router.On the left hand menu, click on Wireless.click on Wireless Advanced,then change the required level of Transmission. :-)",5.0
+Nice and sturdy. But dual antenna is a waste for apartments. Range is cut down by walls. So one with internal antenna is way better and recommended unless you have a open duplex.,3.0
+"Easy setup, Good for multiple device usage, within range of 20 feet or so. Decent HD video streaming and no technical issues encountered.",5.0
+The seller sent used product. Was unable to connect with this router with the settings given in manual. After longtime realised that the modem has already been used and user name password are already changed. Got connected through WPS finally. I wanted fresh product not the used one.,1.0
+I have been using this small form factor router since last few weeks. It is very easy to setup. Speed is OK. Over all at this price range this router is able to perform basic things which is required from it.,4.0
+"One star less because I did buy it to install the third party firmware in it. (There were several youtube videos of installing third party firmware without opening the hardware) but the new versions have locked its firmware.The firmware ships with doesn't have a client mode, and he WDS bridge doesn't work with all routers, It doesn't have a full-fledged repeater mode. Otherwise, the device is good.",4.0
+Have been using since a month Good range coverage but wifi signal suddenly disappears or internet connection drops intermittently then have to reboot router,2.0
+Great experience with tp link .... Recommended for home and small office only WiFi range is available from ground floor to 2nd floor also.,5.0
+WIFI signals are strong. Do not know about the tech support!,4.0
+"Good signal strength, easy to install, easy to use, pocket friendly",5.0
+it has been more than a year since im using this wifi router and it is working absolutely fine. it is good built quality. compatible in size. and gook look,5.0
+Signal coverage is not so strong compared to other model. WiFi printer not getting connected. Good feature to extend wifi signal. Product is not so good and not so bad. Product performance is avg.,3.0
+"I've been using this for the past one year!And never has this been switched off. No,  really!!It works flawlessly and I'm really glad it does :DBtw, you'll be needing a modem along with thisThis is just a wifi routerYou'll be needing another modem from the landline connected to this to get dataLandline wire can't be connected directly to this.It works flawlessly though",5.0
+"it""s a nice product from TP-Link on 949......expected delivery date was 23 june, but i hv received it on 18th dt means 5 days before........dual 5 dbi antena increase d range......in every cone of my 1200sft. house, the network is available in good condition......it""s easy to set up wd d cd given inside n not too much heavy......so d product is as per seller""s description....so close ur eyes n go for it.",5.0
+Bad experince today is my 1st day i got delv and start using the range what they say is very bad my house is 1 bhk and range gets decressing once u cross the wall or close the bed room door and its just a 2 3 meter away where my router is placed,1.0
+the product is perfect for the price rangeyou get 300 mbps and dual antenna wifithe range is awesome can penetrate two to three walls nicelythe connection time is quickest than any wifi's I've used or seenthe wifi starts quickly toothe interface is easy and simplelightweight :v (if it helps!)got it for 850/-best buyfor a budget like this i would definitely recommend itgo for it absolutely,5.0
+"This router is good, it works perfectly.I think in the android app they can add more features for this model, like all connected devices have how much data consumed and speed test, and many more things.",5.0
+Its a good product. Even though I didn't get the advertised range but good enough for my needs.,4.0
+"I ordered TP-Link TL-WR841N 300Mbps Wireless N Router on July 8, 2015. It was delivered to me on July 13, 2015. I guess a quick and smooth delivery. Thanks Amazon! :)Now about the product: The product was neatly packed and was in intact condition. White color and double antenna are just super cool. Installation was quick and easy, just need to put the installation CD and it will walk through the procedure. Once up, it is working smooth so far (after a month of use). Its range is great in home, I can access it from all around the home. (Can roam around the home without any trouble of losing the signal at any point of time.Great product!!!",4.0
+"Do get this if you see 2 antenna = double the signalsThis have even lesser signal strength than its lower models, I would recommend looking for something different than this or go for Netgear, but the best is belkin",2.0
+Wifi signals are very good and covers all rooms best router in this price range got for 799rs with special discount thank Amazon,5.0
+"Do Not buy this product. This device has many issues like wifi keeps getting disconnected and while using wifi connection on mobile it is showing ""No internet access"" even thouh internet is working.",1.0
+An okayish router overall and VFM. One serious issue is WiFi signal. I barely get a single point of WiFi signal even in the next room. I use this router 24/7 and I am facing frequent disconnects and poor WiFi signal. D-Link is better than this one. Also the LED lights are so dim and they are barely visible as well as bring poorly positioned.,2.0
+Excellent product at this price. You don't really have to think much!Very easy installation and very good signal coverage. I'm getting the signal even if my device is few meters away.,5.0
+Worth the money. Easy to install. Range is good. No interruption in the connection.,5.0
+Good productEasy installation and setupGood WiFi SignalGuest wifi available with speed limitapps available to manage the router,5.0
+"This router stopped working after one day. Can’t even detect the signal or name for the router. Tried reinstalling the router and resetting it multiple times, still it doesn’t work. Please don’t buy this.",1.0
+"Stopped working after 10 days. Cable wala said, some hardware issue as he was able to connect with his router.Hats off to Amazon for accepting return post closure of return window also.Ordered for Tenda now. Hope it lives to the expectation..",1.0
+Good product with exceptional killer looks,4.0
+Everything went well product is nice n working well. installation was simple so far happy with the product n also signal strength is good.  Happy with this product n also delivery was fast received in 2 days,5.0
+"Very good product.Bought after survey of around 6-7 months. Found best product. No problem yet even after 6 months of use. Many times I left it in on condition for many days and still there is no problem occurs.Signal strength is very good and having good signal upto 70-80 mtr distance, and getting 15 Mbps of speed on you broadband with this model. I am using it in my 1500 sq feet home. Installing on 1st floor and using comfortably on 2nd floor terrace and ground floor in every corner of home.Very good model and one can go blindly for this.Go For It......",5.0
+"Product is good but after my purchase.. price of Mi router drop. So regrets myself because compare to this, Mi Router is more advanced, techno friendly and future safe as well..",3.0
+Separately it was working fine but when connected with dr.com Smart UPS Mini Size it burnt out.,1.0
+"The router after using for 1 year is not able to provide signal  across the rooms in a 1 BHK home. The router  drops packets hence only get half the speed , for example for100gbps connection you will experience only 50 gbps.RegardsGeekTutor",1.0
+Couldn't easily connect with my tv. Cast screen from youtube to tv is not done in this wifi. Poor service.,1.0
+not what I have order but ok product,4.0
+"Good product,  economical,  must buy it , compatibility  with  ip phone",4.0
+very disappointed with range of wifi signals.... not giving proper speed even to next room.... for short range speed is very good....,3.0
+This is best wifi router. It has very well range which cover your house. Depends on your mobile frequency. Easy installation.,5.0
+"I must say don't buy it.. I have to reset it many time in a day, it loose signals if light fluctuates",3.0
+You must definately go for this product for a house size of 600sqft.There is less buffer for videos and live streaming,5.0
+Wifi signal disconnect automatically and we need to restart the router. Not sure why Amazon having this kind of product on app and say Amazon choice,3.0
+Very easy installation and setup.,5.0
+I like it because very easy to use,4.0
+Range is good.. But but if there is more than one wall in between.. Signal strength goes low.,4.0
+Just one lightning and it's gone. How to claim warranty,1.0
+The router simply fails to reflect my internet speed given by my ISP,1.0
+"Excellent...  But wireless speed issue,  through Wired I'm getting promised speed from ISP whereas wiereless only 20% of promised speed.  Even if i sit next to modem. I have gone through wireless setting everything is fine there. anyone who are facing the same issue or found solution for the issue please share ur suggestions thanks.",4.0
+Easy to install ang good range,5.0
+"Small, compact, easy to install by App. Good signal quality.",5.0
+Does the job for the prize. Go for 5ghz versions.,5.0
+This router is genuine TP link comes with 3 yrs warranty . Im using it form last 1.5 years. No problem found till now .,5.0
+WiFi signal is OK OK type and its quite sturdy in build... Tech support could have been better,4.0
+"Decent router for the price but when connecting another access point to the router, it's having frequent network drops. Cannot return now since return window closed.",2.0
+"Broke  down, stopped  working  within  two  weeks. I think  online  they  send  broken  pieces. Shops  refuse  to replace  pieces  bought  online. Easy  to replace,  get  new  piece  if bought  in shop.",1.0
+"Main issue is it’s range isn’t what expected. Room where it is installed having good connectivity but at the same time, room next to it, there is no range available. Range isn’t more than 8-9 meters.",4.0
+Product Is Totally Different.As Compare to ImageLook Not Expected.,1.0
+Not good. Packet loss is very high. Replaced the first one due to same issue. Again same issue with the replaced one. Now return window is closed too. Extremely disappointed.,1.0
+I really loved this product.,5.0
+"I have return it back the first router as it was a used one & replaced with a new router. it  was annoying had to wait for 15days for a router....however it is working fine now, signal is good through out my home ...balcony, rooms, dining room & speed is also good as i use to my TV, laptop, phones...it is satisfied...",4.0
+The WAN port stopped detecting the internet cable (ACT cable). Tried resetting the router configuration but to no avail.This is by far the most inferior hardware I have ever seen.Not sure if there is a way to return it.,2.0
+"Crepy defective product, the wan port was defective, could not catch IP adress promptly( keeps blinking). Since the return window was over on Amazon, stuck with a defective pics. Tp link has only one service centre in Mumbai, cost of travel to service centre is more than modem cost...crazy..TP Link, if reading pls advise what to do?",1.0
+Writing review after years. No issue till date. Excellent quality product. Recommended to buy.Happy with performance.,5.0
+This router gives different speed in different instruments.,2.0
+"Unreliable connection, Gets disconneted frequently. Requires minimum 2-3 router restarts per day.",1.0
+WiFi signal is great and reaches all corners of a medium sized apartment. The connection is stable and product installation is very easy to setup.,5.0
+"Really good one, no issues till now",5.0
+Signal strength is good but no power button on system only reboot button is given,4.0
+"I received this product from Amazon without a scratch, and in timeThere are a no. of 300N Wifi routers but compared to the price and reliability it is a winner.i have been using it for a long still i dont face any problem & the wifi range is totaly awsm .",5.0
+"first of all awesome product by TP linkthis router is very good for home basis usethe router range is very good and its easy to configurethe quality of this router is very goodif u wanna buy a router for your home use or you have business then go this router..
+
+TP-Link TL-WR841N 300Mbps Wireless-N Router",5.0
+"Excellent product in its price range. There are similar products available internationally, but obviously slightly expensive. Great range, covers about 30 feet, sometimes more! Walls are a deterrent though, which is the case with any router. Go for it",4.0
+"I am facing frequently disconnect issue, i used on old router that was working fine on same internet connection so it seems to be router issue, i have asked for return.",1.0
+"I wrongly choosen made in China product, while selecting products customer should know products belongs to India or china, do some twiking on app so anyone can easily identify Chinese products.",1.0
+As of now working pretty fine,4.0
+I have purches Tp link 840 model  this is old products delivar.bad quality and bad service by amazon,1.0
+sir my purchasing 5 this model wifi routers but to ruters not working  give me retten link,1.0
+The product seal was broken+the plastic cover packing of the product was not their. The product seems to be used one. Very bad condition of box. Don't accept it if the seal Or box is damaged.,1.0
+Worst customer services experience. First this product stopped working within 2 months and then customer services is not picking up call. No resolution getting provided from customer support.,1.0
+Nice and reliable product,5.0
+Easy to install. Excellent range of wifi. For 2-3 bhk it is a excellent router,5.0
+"Adaptor has stopped working in 1 month, It was Amazon Fulfilled and 3 year warranty, then also, Amazon is not able to find my order and disconnecting my call...Worst service AMAZON😖",1.0
+Very good router and repeater. I am using this as repeater as my signal was weak on corner rooms. This one solved my issue to the fullest.,5.0
+Awesome Product by TP link.. :),5.0
+"I have purchased any other model but got any other router model that hasn't have any trace , i have searched that router on google , youtube but haven't got anything .",1.0
+3rd class product. When I put my broadband connection in directly to the laptop it's perfectly fine but then I put in in this router and its showing no Internet.Disgusting.,1.0
+"It was a bad experience. Internet kept fluctuating, had to switch back to the old router.",1.0
+Average product for 700-800sq. 1-2bhk house. Signal are week out of this sqf. Overall the product great for me. Speed also good its all about your service provider how much speed they give you. But i connected at least 8-9 device at a time its work great.,3.0
+Needs to be switched on again and again each time electricity goes.  Should have some inbuilt auto switch on facility,4.0
+Download speed is very less while upload speed is fast. I have 50 mbps broadband and getting same speed in LAN. But thru wifi its avg is 10 mbps in mobile.,3.0
+Product installation was handy and quite easy however after 2 months of usage I found that signal strength sometime drops and wifi got disabled in devices.,3.0
+Wifi signal is very poor,1.0
+Awesome Product!!Range is Awesome!!Awesome signal transmission and the consumption of bandwith is very minimum which helps to deliver maximum speed of your internet connection.,5.0
+Signal is very bad in my 1 bhk flat I am not getting proper signal and signal is dropping every time.N o one responding from Amazone and TP Link. It is a very bad service and product.,1.0
+"It gives good signal range and speed compared to other dual band brands, even in price aswell it is worth to buy and settings are very simple. Overall nice quality product from tplink.",5.0
+I'm very happy with the product...no fault in the router.. what I like most is the adapter quality..easy to configure.. I'm always with  the tp link product.. using upto 7 yrs with different tp link product,5.0
+"Router frequently disconnects. In spite of having 3 antennas, the range is poor. I don't get good signal in adjacent room.",2.0
+I got a wrong product. I want adsl modem for bsnl broadband. Because of the current lockdown situation i got it yesterday. But it was delivered 1 month before. What to do now?,1.0
+slow speed and keeps disconnecting... i have to restart every time and its very irritating....,1.0
+The delivery from Amazon was pretty fast. But as per the product range is not great which i have expected. The range is falling down for this router from just 6-8 meters away. I will suggest anyone should not go with this product and try with something els.,2.0
+"Received this router in awesome packaging (as always) from Amazon. This router is really awesome. Very easy to set up, no connection drops whatsoever. I live in a penthouse and have a big open area in the terrace. The router covers almost all of the terrace area, hence there are no problems with the coverage.At this price, this is the best deal for a 300Mbps N router with 2 antennas.",5.0
+The Wifi signal is very poor. It will not even reach to adjacent room.Installation everything is good and easy.,1.0
+"My Toshiba Tecra laptop frequently disconnects or just hangs when using the wifi connection. No issues in using wired LAN connection. Could be a driver issue, since did not experience issue when connecting mobile to the wifi router. Tried updating the firmware, but it did not help.",2.0
+"About the product,- Very easy to install and make it work.- For some technical reason, it doesn't work if the wireless network name is changed.- The plastic of the network cable connectors are not of good quality.. but this can be ignored because - ""you get what you pay"" :)",4.0
+Very easy to install. Signal strength is also good. Liked it,5.0
+Nice product.Had some quieries.Tech support was really helpful.Just range is good for your house if your house is within900 sq ft.Else you may need a range extender,4.0
+It is very useful.But to some extent lightweight.Initially faced some problem to install. But works now very fine till date.,4.0
+I wanted to return this as it was not the one required but return option was now showing only exchange was showing. I called for another model nd am now stuck with this one too.,1.0
+Using it for the past 2 months. Works well for my 1BHK flat. Looks sleek and pretty.,5.0
+"I've been using this for over a month now. Best router overall for the price. Couldn't find anything better below 1500. Has all the standard features and a lot of extra features like parental control and bandwidth control in the original firmware.This router is also compatible with a many custom firmwares such as DD-WRT and Open-WRT. I flashed DD-WRT on mine and was able to boost the wifi signal strength significantly.If you have a low budget, go for it without any hesitation. You won't regret this purchase.",5.0
+Value for money,5.0
+Awesome product. Brand new. Super easy to install. Working fine. Got a great discount from amazon at ₹1187 while the original price is ₹2499.,5.0
+Max signal upto 40 metres only. Not as expected.,3.0
+"It is great but for signal all over your house, put on the wall in the middle of your house. You should have a good service provider for strong signal",5.0
+Not bad as well as not so good. I am satisfied for the money that i paid. I stay in the 2nd floor. I get point 1 signal in the ground floor. Sincle i am using ACT Braodband and the speed is un matchable i am not pretty much worried abut the sibnal.,3.0
+Frequent disconnection. Range and coverage is poor than my earlier 10 yo WiFi router. Adjusting with it for the price paid.Better go for DLINK.,2.0
+"worked very good for 2 years, then I not used for some months. In lockdown someone need urgently, so I gave them, their also working perfectly.",5.0
+Bought this router as I had always believed in the quality of TP-Link but it got totally broke within a single month. I won't suggest any one buying this product and not from this seller atleast,1.0
+Its package condition is also good and the router is in good condition. If u want a WiFi for ur daily routine u can have this. I prefer u this...Thanks......,4.0
+"Easy to setup. Signal strength is good, covers around 400Sq, Best part we can control with android app",5.0
+Wifi signals are very strongYou should buy this wifi routerAnd very easy to install,4.0
+Not good as expectedRange is good bt overall speed is not goodWhen 3-4 mobile connected  then speed loss or buffering stop never move forward,3.0
+Good networking solution in this price segment obviously you can go for it if you know how to use it then only bye thank-you.,4.0
+"Devices like routers should be forgotten after it has been configured for the first time. It serves it purpose well.I have another old router DLink DIR-300 and they don't interfere with each other, atleast there's nothing noticeable.As far as wifi range is concerned, it only reaches as far as the Dlink DIR-300 which has just one antenna.I like the auto-login option, which I use with ACT broadband.",4.0
+Easy to install & works well. Should be good for a year I guess. Signal strength has increased.,5.0
+"Good router configuration was very simple, less than 10mins. range seems to be almost same asTP-Link TL-WR740N Wireless Router on actual usage not much of a difference.31.12.14Amending my review after few months of usage, There is a strange problem with the Router it hangs every now and then, then have to restart it to start working again.Upgraded the firmware but issue still persists!! its a pain to keep restarting the router sometimes within 5 mins.",5.0
+"Received a different router with same name and model, don't know if it's the updated design , if yes then update the product images",4.0
+The product is not at all good...It has stopped receiving the WiFi signal. It's not working well since the time of purchase,1.0
+Not for Big house.. Router is ok but signal straight is not that strong,3.0
+"bought it for bandwidth control on multiple PCs / Mobiles. It gives what it says, brilliant!Wifi Range is extremely amazing. Three walls, closed doors, and it still shows signal!Boot up process is TREMENDOUSLY quick",5.0
+Very good product but I would be happy if I could hang in the wall like wall clock,5.0
+All TP link products are the best. It will never disappoint you. I have been using to link products for years now and its still intact and up and running even after ruff use.This WiFi modern was the best I ever had. It's worth the money and the range is excellent for a 2BHK.Easy to install and light weight. I would highly recommend this and its trending. This is the best you can get and its affordable. I got it for 1099/- 61℅ discount..,5.0
+Like it,4.0
+"Very easy to install and light weight. But I am not satisfied with the range, poor coverage even with 2 antennas. No issues with packing and delivery as usual.",4.0
+Best product it is easy to install it's durability is very good versatility is also same full rage in open place and very best product from Amazon in very less money expense good experience with amazon ..fully statisfied...,5.0
+Good working and speed is also good...,5.0
+Good to value for money and decent range.,4.0
+"Very Bad experience with this device , after completion of 3 months presently the device not working, it's in the warranty period kindly, suggest how I exchange this ,",1.0
+Really awesome router. The range is superb. I got this double antenna router so that I get good wifi range in my hall kitchen and both the bedrooms. But it gives more than that. I get range even two floors down from my house. It's great.,5.0
+"Changing the password is challenging for a non technical person like. Performance is very good, network range is very good.",5.0
+"It's been a week and it doesn't work, not in the slightest. Worst WiFi router I have ever purchased. Annoying at all times.",1.0
+Bought and within a week it stopped working . Wifi signal catch up strength very is low. And just buffer buffer buffer only,5.0
+Good in use,3.0
+"Hi guys, if you have already googled for the top brands and models of WiFi routers, you might have got TP Link at third position in the list.I bought this product and trust me, it's the best one I've ever used or experienced.The two antennas gives you awesome range cover. It's too easy to setup and reconfigure. And most importantly, in your budget.You can go for it blindly. (Psst! it's better than NETGEAR) ;)",5.0
+सिग्नल कभी-कभी ऑटो में चला जाता है सारे कनेक्शन ठीक होते हुए भी ऑटो में गायब हो जाता है,2.0
+range is not so good. it is good for 1bhk,3.0
+Working great till now really appreciate this product not found any issues after buying it 👍,5.0
+Value for money,5.0
+Nice router. Configurations was bit complicated because I used for first time. Easy to understand. Go for it.,5.0
+"Bad signal, it isnt any better than my default act modem, i returned and went for tenda",3.0
+"Poor device failed , support is very slow got the replacement after 1 month",4.0
+This router frequency is very good. It is used around 1500 sq.ft home area.,5.0
+"I have ordered it 3rd May and it delivert to me Today near about 5 days before expected date.This is greatest sign for Amazon.Fully satisfied about packing type of parcel and its came me on fully tiptop and good working condition.I have installed it with my BSNL BB and supereb routering  with one desktop,one laptop and 2 smart phones and range is very strong as per given features.Its simultaneously works through two moveable antennas.A big thank for Amazon service and Tp-Link..",5.0
+"Going good, nice option to buy it's been a year almost",5.0
+Easy to installation by app and desktop and wifi signal is good design awesome,5.0
+I am using this for almost 3month now..this far better than D-link product which I have used before. Very stable and strong signal. For a big house area this a perfect one.,5.0
+Excellent wifi range (indoor). Recommended device.,5.0
+"I purchased this on June 27th and it was delivered to me on June 28th. On June 29th, the router stopped working properly. I guess I had received a defective piece or TPlink is really really pathetic. Thanks to Amazon's return policy I had this router returned and I am looking forward to purchase Netgear. Please don't go for TPLink routers anymore. They used to be good once upon a time but now they're just good for nothing.",1.0
+Easy to setup but range coverage is not up to the mark. My D-Link router with only 2 antennas performed similar to this inspite of this one having 3 antennas,4.0
+"The range is very poor..When I go to the other room,the tower goes down miserably..But roughly 70-80 metres it gives a coverage somehow..Bt overall it's a ok product to buy for home..Installing is very tough without a router..U need professional engineerings or some computer mechanics to get it installed.",4.0
+"Product like used , No power adapter, box was not sealed",1.0
+The build quality is good but the signal strength is soo week gets disconnects  only recommended for mid range use,2.0
+I'm using this device for past 1 month and found uninterrupted strong signal capacity even from the market nearest to my home...,5.0
+Range not even half as specified.The one I was using earlier from other company is much better.,1.0
+At 1st product was not working condition after that when replacement this product then it's working fine.Thanx Amazon.,5.0
+Does the job but not exactly a great range. Could not receive proper signals in the room next to the one where I kept it. So I had to use extension cord to move it to my room,3.0
+"Even after having three antennas,wifi signal is not constant it fluctuates frequently.",3.0
+"Nice Router but poor customer support.my device failed after 10 month of use, sent Email, called several times regret to note NO REPLY, it's hectic to get replacement when bought online portals.",1.0
+"don't know why it shows for 840N, Writing review for 940 NConfiguration was too easy but range is terrible, useless purpose of 3 antennas, coverage reduced to 2 bars in adjacent room, using as repeater, not recommended if you have range concern.",1.0
+Good,3.0
+Nice,5.0
+Good,4.0
+this is one of the best routers I have seen. Works as describedPros:Good rangeNo dropsGreat management featuresGood no of LAN ports tooWi fi management optionsIP based wifi throttlingCon: less documentationNot so intuitive interface. Needs some learning.,5.0
+Not at all happy with the router. Signal strength is really weak. Want to return it.,1.0
+Modem is good but it used for24*7 modem is not functioning so again switchoff and reconnect again.,3.0
+"just awsome delivery by amazon...i ordered it on 22 sept @ 8:30pm & got it on 24 sept @ 11:30am...without any 1 or 2 day selected delivery option...now coming to the prouduct.:-good packing of the product & totally seald...-insatallation is easy & simple (but it was my first time ,so i dont know how to install it ..so i took more time for it)-range of dual antenna is good..(i can grab the signal within 2 floors easily without any issue..never faced signal drop problem)-gives nice speed..so,go for it without any hasitation...u never have 2 regrate for it !!!",5.0
+Product is awful. Not satisfied at all. Wi-Fi range is not good enough and data transfer rate is as also not good. The router is placed on table but still shows poor range on my iPad and on my Dell laptop. My previous Tplink 150 router was much better than this one. Totally disappointed by the performance.,1.0
+Wrong product received. Received boat headset instead of wifi router..,1.0
+"ghatiya services, no warrenty service center ask you parches amazon so we replace this product in 45 days and if you parches local deler we replace 1 minit.ab koi bhi product amazon se nahi mangana.warrenty nahi milti he.",1.0
+Pathetic ... Don't buy this ... Signal strength doesn't even cross one room,1.0
+Bad signalI'm very very disappointedEk dum bakwaas kya bolu ess kay baray mai1 time replaced it either it's can't workVery very performance of this item,1.0
+The best wifi routers that i have used than the expensive ones from setting up to signal strength to Usageability everything is amazing,5.0
+"I purchased this only to increase my wifi distance range and it perfectly met all my requirements.I get 2 stick signal strength after crossing 3 walls and about 50 metre distance.Wonderful product, I recommend to everyone who want high speed networking and high range networking at the lowest price.",5.0
+Worst router keeps dropping signal and internet,1.0
+I bought this router hoping to get good strength in 2 rooms of my apartment. I have put in hall.However its strength falls very quickly. Overall good product,4.0
+Writing this review after 4 months of usage.Pros:1.Covers good range2.Lengthy Wires for both power adapter and Lan.3.Clean LED indicator4.Obviously weightless and neat design.5.cool 360deg rotating antenna.Cons:No cons from technical aspects.1.Wireless and restart buttons looks too small (but in good quality).2. bit messy when I taught to hand it on wall.because it need two nails.,5.0
+Good router at budget price.,5.0
+Little Crack found in device,1.0
+Pros:The only good thing about the product is its price..its a good deal under 1000 bucks..Cons: its look really dull and dirty after few days..very hard to clean it even with a clothDespite of having 2 antennas the reach of wifi connectivity is quite poor..u hv to come really close to the router if u actually want to browse or download something,2.0
+fine,4.0
+Its good. Initial installation was a bit troublesome. The installation guide does not cover all configuration details properly. I have to go to TP Link website and check for suitable configuration.,4.0
+Very good sturdy,4.0
+Easy to setup...Get it in 3 days in lockdown ... Have a good range of network in wireless also. Get range in 1500 sq feet area easily,5.0
+It's good for those who has 1bhk room not recommended for 2 or 3 bhk.Editing this after almost a year of experience.Not at all good choice because it doesn't have a good signal strength .,4.0
+good product fast delivery good product fast delivery good product fast delivery good product fast delivery good product fast delivery good product fast delivery,5.0
+Very nice,5.0
+Made in china.,4.0
+Good but does not cover full house as showed or said in the description,4.0
+"Superb router!!! Though Amazon gave me V9 router instead of V10 as mentioned in description, i'm happy . Because it is easy to configure.Can use 24 hours without any fluctuations of signal.But it is recommended to reboot router every once a week for better experience.I have also used this router as ""Repeater"",and it works great no lags at all.No issues occurred while upgrading router to latest firmware.But I am going to flash DD-WRT firmware for more customization'!!",5.0
+Using it for over a year and it's still going strong! It has strong wifi signals and user interface is good too.,5.0
+waste of money not worth Rs 1200. Three antenna just for show wireless range is like tatti. don't buy if u you are looking for a good network range.,1.0
+This product is showing that it will Provide 450mbps of speed but it only supports 40mbps.after connecting it only gives 30mbps for all the devices.,1.0
+"Super product . Go for it , have been using it now for months without any issues",5.0
+Its very easy to install gadget. I am using it from last 4 years. Still it is working with perfect bandwidth without any problem.,5.0
+Even at the distance of 7-8 ft one signal drop is displayed on Mobile.Product received without bill.,4.0
+"This is third class router WiFi range is not properly upto 5 meter and wifi network down multiple time, This item should be block by Amazon to help customers",1.0
+Go for it,4.0
+User interface is good. Easy to configure and customise. LAN ports are designed for 2 pair cables. Wifi signal coverage is also good in small area.,4.0
+TP Link has the best routers in the world. Extremely powerfully and fast.,5.0
+"Everything is good about this product but I feel that, there should be an option to remove the antennas. Also, one should have a reset switch in a safety edges, because I pressed it mistakenly for Wi-Fi signal On-OFF.",5.0
+Installation  is very easy just unbox the pack and set up with connection  and here you go to start using without any difficulties. Range is also very  good,5.0
+Good signal strength.,4.0
+Works nicely as an extender as expected,5.0
+This router is even having lesser range as compared to 2 antenna TP link router. router restarts and connecting time takes too long. not worth buying,1.0
+It's good quality product.Relaxed with Tplink.Thanks Amazon.,5.0
+Good,4.0
+Good,5.0
+Worse product bought till now. Automatically wify signal goes off. Frequent fluctuations on signal.,1.0
+I really liked the product as you can control wifi access with the app. Wifi signal is also good. It is easy to install. I would like if you can control your wifi from anywhere not only when you are connected. Its NYC only,4.0
+good transmission but upon continuous use of 4-5 days gets it to hang and deliver lower speeds than my bandwidth. so i had to restart and or switch it off for half-an hour for good functionality,3.0
+Great WiFi range. TP_Link Router config is easy. It rarely hangs/slows down. Provides good speed to all connected devices.Admin controls are easy to configure.Doesn't heat even after prolonged usage.Firmware updates are rolled out frequently.,5.0
+Installation: Setup was quite easyRange: Range is quite good (almost 100 meter in my case) but make sure your both the antennas aren't aligned in the same direction {Try putting them at 90 degree)Speed: There was no drop in speed and it sustained even when I put heavy data transfer load via the router.Price: I got it in 900 bucks in lightning deal. [Tip: Put the item in wishlist and then wait for a few day to drop the price]Quality: Fine,4.0
+I love it but speed is not above 50,5.0
+its not as expected. unable to cover my 2 bhk with this router. Ok ok product. network fluctuates more often.,3.0
+Awesome productIf you're buying a router then go with tplinkYou'll be happy 😉,5.0
+Product stopped working properly after 1 week of usage.. every 5 mins the Internet gets disconnected. Worse product choice I made. There is no refund only replacement of item. So be prepared b4 u buy.. if u r lucky u will get it working for a long time like other reviews..,2.0
+"Amazon delivery is incredible  (Amazon delivered this router within 3 days for me)This router is awesome, present I was using act beam fibernet. .. everything is fine. ..Completely satisfied with the product!!!",4.0
+Osm,5.0
+It not working and signal strength is very week even if we in the range of 5 meterI will not buy TP-Link product in the future,5.0
+Excellent,5.0
+This router has poor range and keeps dropping signal as well. Even sitting within 5 feet of it I didn't have full signal. I have returned it and gone back to my 5 year old Netgear router which has much better coverage than this.,1.0
+I did purchase this but not this is not giving enough signal.Hardly I get in 1 room,1.0
+"Go for it guys...I had Cisco Linksys before I feel TP-link is better with 3 years warranty. No use in spending 2000 bucks on Cisco for just a year warranty, which blew of in a year. Be smart.",5.0
+Excellent product. Recommanded for home use.,5.0
+Value for money,5.0
+This product Wi-fi range is too short. we will get 2-3 bar of signal strength out of 5 when connection device distance b\w 2-3m  from the router.,1.0
+I am totally disappointed with this product... Only one month  product works well. Nw from 2 days it's not catching the single from wifi cable...,1.0
+average,2.0
+Actually gives only 10 mbps speed,2.0
+"Connecting issue,lost IP address.",1.0
+great product..should have idividual led indicator for the lan and wan and network and wifi.,5.0
+Good,4.0
+I haven't been able to install my internet connection. I have tried all possible settings but there is no internet connectivity.And because of the 10 day replacement rule I cannot get a replacement for it too.,1.0
+The router looks ugly but people will buy this for its compact size...Else the performance is good and setting up is easy,5.0
+Easy setup... Good purchase if on low budget,4.0
+Very easy to use UI of settings page. Also setting the Guest network and limiting speed and all are easy.,5.0
+wifi range is very less waste of money,2.0
+Please don't buy this product.The Wifi signal is not good.,1.0
+The internet provided recommended this a the earlier belkin router was getting disconnected frequently.,5.0
+Waste,1.0
+"Good Product, I love it. I am using it in my home, right now I placed it in ground floor and I am getting range in 1st floor also. I brought this item for 890/- which is very good deal. Thank you amazon..",5.0
+TP-LINK TL-WR841N 300Mbps Router is Best product in Best price in this segment! Performance is very nice! Wireless range is too good! Easy to setup and very good design looks very nice!Product I received from Amazon.in is perfect and as same as show on Amazon.in!,5.0
+Nice,3.0
+"Good router, good build quality and the best part is its Wifi network coverage it covers my entire 1st and 2nd floor. Just awesome.",5.0
+Very bad experience with TP Link this time.The first of all it shuts down automatically. I request for replacement and TP Link did that but replacement item is not playing HD content properly and reduce down the quality automatically and on top of that It keeps buffering . Now I am using another router instead of this one.Total waste of money.,1.0
+Does what it says. I have placed it in the center of our home and the signal is about full in all corners of our home (2 BHK). We live on 2nd floor and I can get the signal outside our apartment on the main road and in the parking area as well.,5.0
+very good,4.0
+Easy to install but wifi signal is very poor... Think before you buy. My router is not working after 2 months,1.0
+I have purchased in deal...Till date satisfied with the product.....,5.0
+"Product as per description, working fine. Double antenna working as good as single antenna router, no improvement in signal range.",5.0
+i love this.. light Weight.,5.0
+Nice product,5.0
+Product is not good within 3 months of installation its working becomes so poorWe do not get the signal within 6feet rangeIt automatically resets itself,1.0
+worthless product..loses network connectivity as soon as u change rooms...I hated it and couldnt return,1.0
+"This is my first experience with Router, Really ot gives a better coverage and speed upto 1200sqft, loving it",5.0
+Received product and no lan cable found and packing also poore,1.0
+Ok,3.0
+Wifi signal range is not good. It can not cover up 20 meter distance.,2.0
+"We have been using this router for a week now networking one laptop, a tablet and two smart phones. Router seems to be value for money. WIFI coverage is decent - we get network coverage satisfactorily in our 2BHK apartment.",4.0
+"Looks awesome finish, and about performance, i have used it almost 20 days after that giving this feedback , this router is totally perfect at this price range",5.0
+Very nice product with 300 Mbps connect within the price range is good choice i made and product didn't give any trouble since 1 month,5.0
+After 6 months it started giving problemsNot worth,1.0
+"The Product is good as expected and as per the old reviews. Tested for almost a week now 24x7 and working great without heating. Most of the buyers are confuse with TP-LINK TL-WR841N and TL-WR840N Ver 2.0. As per the detailed walkthrough of both the products I have taken a decision to buy TL-WR841N and it has paid off. With this price point, I would recommend to go for it.",5.0
+"Delivered as promised by amazon. Regarding the device its easy to setup, but disappointing part is the range of the router it is same as 150mbps router. I am using my old router tp-link MR3020 as repeater to extract full range to first floor.",4.0
+Just mind blowing and great speed too.,5.0
+I had ordered it for a Home Wifi as per the recommendation of the Broadband Service Provider. The product is working finr. The signal strength is good.,4.0
+Good deal in this price range. I'm getting 80 Mbps speed on ookla and other speed tester ( depends on your connection bandwidth). Good signal strength.,5.0
+user interface for configure is simple and good and WiFi singnal is strong even in another close room,5.0
+Good,5.0
+"Very poor product, suggest not to buy the wifi signal automatically  disappear and after replacement even it is not working properly.",1.0
+Wifi range is good and it's a best single band router than other in this price range go ahead if you searching for beat single router,4.0
+Was doubtful at the time of purchase but after the delivery am quite satisfied.,5.0
+"Really nice router for the price, i had issue with range with my last tenda router, this solves it and my speeds are also improved a bit and are more consistent, would recommend for 1k. It is definitely a no brainer under that price range.",5.0
+Router has a slightly bigger footprint but is light weight. Wifi range is great. Got it from Appario Retail for 1100,5.0
+"Nice product..to early to talk about technical support now,it's just been two days of usage...before time delivery by Amazon was unexpected.",5.0
+"Not too good. Problem arises often. You need to reset the router,restartr,etc. I also use a d-link router and after using both , I can say, one must always prefer D-Link to TP LINK. D-link is far better.",2.0
+Good product,5.0
+"good item, but got damaged due to lightning, within a year",5.0
+Very very poor signal strength ! Not even 15 feets ... Speed is rotten.,1.0
+Good,5.0
+"Easy setup. Set it up in half a minute. Always used Dlink prior to this, but now have observed a router reset issue on the Dlink and had to switch to a different brand. No issues in the last 2 months or so. Range is slightly less compared to the Dlink 615 but apart from that no complaints",4.0
+"Product is good & no wifi issue found, but the Power light is not working. There is one request kindly do the qc check before dispatching the product.",3.0
+"Good product for Wi-Fi, service is poor and rude people on the call at service center hence I ordered another one as first was not working.",4.0
+Such a good looking and awesome product. Thanks Amazon.😊😊,5.0
+"All are god, but adapter is little delicate, should handle with care. It'll break if you apply even a small force.",4.0
+"MyTp-link router automatically disconnects while running. I do not know what may be the reason? It is under warranty. If possible replace me this set with another one.The details are-300 Mbps Wireless N Router,Model No. TL-WR841NS/N:2158271018664Also toll free number does not connects quickly.",2.0
+Works without a problem. Installation was breeze. Using it for more than a year now.,5.0
+Best budget router.,5.0
+"Good router at that Price band. Haven't explored all features but far better when compared with my previous models from belkin, netgare and D-Link.Consistent signal strength. Excellent logs, Bandwidth control....",5.0
+300 Mbps is pure BS. Maximum this gave me was 2.4 Mbps. Act fibernet folks told me that this was because this thing is single band. No one wrote about this band thing on the page. You have been warned!,2.0
+Good connection but sometimes it got delayed for few seconds to establish a signal.,5.0
+You see lag some time,4.0
+"Excellent product, superb router, signal strength and spread provided is outstanding. Much better than expected",5.0
+Takes about 2mins to boot and start giving internet access over the WiFi. Though there are 3 big antennas.. range is worst. Don't cover 3bhk flat even doors open.,3.0
+"I am fan of TP-Link, and this 2 antenna make it grt in range and speed and price is also competitive when compared to other routers.I advise to buy this product without hesitation.",5.0
+It's durable. ...with good versatility nd easy to install. ..it does what is mentioned in the description,5.0
+Nice. Working perfect,5.0
+"Good product at low cost. But the seller sent me a piece which is returned by other customer. But it is unopened and is with manufacturer's packing, and it is working well.",4.0
+I am using this product since last 6 months.The products have followingpositives :  1. Nice Product  2. Very large signal coverage and  3. Auto connect to my broadband network easilynegatives :  1. Once the adapter got damaged due to power fluctuationsOverall good product,4.0
+Worth the price good range and gives max speed bandwidth easy to setup and tether app can manage your router thru mobile go for it,5.0
+Na,4.0
+Worst product i purchased in only two months it creates issues....and company gave 3 years warranty.... Wifi ports are not working,1.0
+Device stopped working in less than 2 months. Have to visit a service center to get a refurbished device with the same warranty,3.0
+Range is not that good.I have 2 bhk flat. Signal gets weak as soon as go to last room which is only 8 meter away from the place I have router.  Easy to set up. Just download tp link app from apple or google store and u are ready to go.Amazon is blazing fast I got the product within 1 day with  normal delivery.,4.0
+dont buy wastage productlow speed in ad show 300 mb/s but actually 150mb/sfake advertigement DISCONNECT ALWAYSwaste money,1.0
+Connect and 5 minutes setup then good to go wireless. great product for this price. I have been using 1 month and there is no issue in wifi. In this budget this is great router.,5.0
+Easy to install।। Signal strength guud.. posting this review approx after 3 months.. all over the product is gud,5.0
+THE PRODUCT I RECEIVED IS DAMAGED THE RIGHT SIDE ANTENNA IS BROKEN... PACKAGE IS FINE... I HAVE NO TIME TO RETURN THIS PRODUCT AND PROCESSING TIME... SO I DECIDED TO GO WITH THIS BROKEN PIECE...,3.0
+Good one,4.0
+Bought this to upgrade from my previous router and this ended up worse than that.,2.0
+"The. Wifi aignal on other room is weak ,since it has dual band.",5.0
+"Your browser does not support HTML5 video.
+
+
+   Used product",1.0
+"Tried calling more then 10 times  to TP Link customer care, they are just disconnecting calls. Need amazon to intervene in order to maintain",1.0
+"It has good rangeInstallation is pretty simpleI have bought a router for the first time and it was easy to set up, did it myself",5.0
+Very bad speed and the power cable is very loose. One needs to hold this then only it works and in that situation as well speed is very bad.,1.0
+I m very much satisfied with this product,5.0
+Faulty piece..had to return the very next day as it didn't work... intermittently it didn't show signal.. have asked for a return..,1.0
+"Value for money, cover my whole bunglow, good signal strength. User interface is easy, easy to setup. Easy control from Mobile App.",5.0
+Have been using this from past 3 years and didn't encounter any issue...Signal strength is also very good... Quite happy with this product.,5.0
+"Very nice wireless router. Fits all my needs. I am using it since 10 days. No issue till now about the hardware. I get good enough coverage at my home(duplex) for my 1mbps plan.The package contained router device, Ethernet cable, easy to install set-up CD, & device adapter. Installation using CD is quite easy. Nothing to change and just keep going with Next button will complete wireless router set-up.Thanks Amazon. Thanks TP-Link,",5.0
+Good product for good range.,5.0
+The wify renge is very less,3.0
+"Excellent, so many features",4.0
+I ordered this router as no other router was deliverable at my address. Received this one in a day but was defective. Didn’t work.,1.0
+I use it with the TL-MR3020 (which is also a five star). The range and reliability of this Router for less than 1000 Rs. is amazing. And it is capable of running a firmware for [...],5.0
+Good one,4.0
+It works fine but nothing great,4.0
+Till date i am using it,5.0
+Good but can be used to extend only to a very small area. Say if the router is in a room wifi can be used in the next room. Not more than that. It is worth buying only to cover a small area.,4.0
+A cheap wifi router but could not go go beyond 1 thick wall of place I have kept it in. being a dual antenna router I was expecting it to go give longer range.But still a good deal and had no issues.,4.0
+"Designed well , range is decent , does its job",4.0
+The range of the router is ok installation was a breeze,4.0
+Perfect... Easy to install.. Range is good..,5.0
+Please don't buy this router. Can't even get signal to my second room. Disconnecting frequently. This is my third router overall and I'm very upset with this,1.0
+Nice product.,5.0
+My experience is not good. Signal becomes very weak in 10 meters distance though it is dual antenna and 300 mbps. My earlier binatone single antenna router with 150mbps never showed this problem and Signal strength was very nice even at 20mts distance and with doors closed. But this one...naaaaah. I  think it's a name sake dual antenna / 300mbps. Not even close to what it has to be.,2.0
+Value for money,5.0
+Nice Product,5.0
+Nice product,5.0
+Range is good,5.0
+Received used router you can see the pen mark on reset button. Also the box was not sealed. Very much disappointed with Amazon.,1.0
+Small and compact,4.0
+"Easy to install, durable",4.0
+Signal strength is very poor. Range is not as per paper. Unstable connection,1.0
+worth it,5.0
+PPOE Configuration Not Working...username and password authentication failed errorDon't Buy This If Your On PPOE.,1.0
+Product is good but setup is not clear ple provide detail of all type setup inproduct guide,4.0
+"Better go to netgear N150 ,iam using netgear from two years.I just ordered Tp- link router when price is dropped getting signal problems now I replaced the netgear working as usual.",1.0
+"This product is too bad , think twice before buying it. three antennas are just for show it hardly covers 10 meter range and speed is too poor.",1.0
+Signal strength is good using from almost 2 year,4.0
+"It does not have a great range in spite of having 3 antina’s, I had to switch back to my Netgear router which really works better then this one.",3.0
+I buy this router at very reasonable amount and the signal of this router is also good enough. Sometimes i get problem may be it is because of heavy raining outside.,5.0
+its very good progduct,5.0
+Don't get signal in 1000 sq ft home,3.0
+Easy to install.Using in office.Best router for offices.Still no problem detected.Working efficiently.,5.0
+Very GoodSimpleEasy to useValue For Money,5.0
+"After months of continues usage, It's working seamlessly till date. Very good product !!",5.0
+Received the product a day late. However the packing was good. But the router failed to configure ... Bad experience with a defected product. Waited so long for it and finally received a faulty product.,1.0
+Standard and best product with 2 antenna. Very high range suitable for 2 to 3 BHK house. But for this placement of router should be in centre so that connectivity doesn't loose.,5.0
+Good one,5.0
+cannot be used as direct wifi router.  works best as extender,4.0
+Wifi signal will stop until I switch off and on the router.This will happen five to eight times a weekAnd it very random.,1.0
+Economical router with good signal in my 3 bhk house. Fully satisfied. So far no problem.,5.0
+Received this product today but default password is not working so I can't configure it thinking to return the poduct any one can help me,4.0
+"wifi range is not as mentioned in description , it is within 12 ft range only no accesses  to wifi to your adjacent room not satisfied",1.0
+Good product. But Signal strength is low in corners At my home (1000 sq ft).,4.0
+Chinese product,1.0
+Good product for this price range but I think it has some range issue. Sometimes it can't throw signals across single wall while sometimes it crosses 2 walls..strange,4.0
+Dont go for outdated 802.11 b/g/n that is 2.5Ghz when you can get (if not here check flipkart) 802.11 ac with slightly higher price as compared to this N450,3.0
+Very fast Internet speed with the help of this,5.0
+Product is not good.... The wireless range is very less...only Good for 10*12ft area... poor performance ...,2.0
+In middle wifi signal was missing Waste of money dnt buy it,1.0
+"Nice & Compact. Easy to Install, Good Signal. must Buy.",5.0
+It suddenly puts off wifi . I don’t understand.,1.0
+"I'm having a 24mbps connection and with the exact duplicate settings of my old router and Im getting just 4mbps tops with this one. Also there's a really annoying whining noise coming from the power adapter. Thought of this router to be a great one. Dissatisfied and initiated return. Honest review, didn't work for me, might work well for you.",2.0
+Packing is not proper.One small crack on the router.Any how its working.But should not be defective one.Subhabrata3.6.17,3.0
+Solved a lot of issues for connectivity at our place. Very easy to install and DIY,5.0
+"The amazon delivery service was spot on, no complaints there. I had trouble setting up the device. The instructions provided in the box isn't helpful at all. You have to call TP link helpline number and also your ISP to make things work. The TP link guys don't pick on calls. I called around 30 times before anyone picked up and you would have to call them atleast two times to set the router up.",3.0
+Buy This! It's an amazing Product,5.0
+Good product,5.0
+Good for price point...and easy to install,4.0
+"Wasted my money, Keep on disconnecting, i had to use my old router again,",1.0
+I'm using in last 4 months it's working smoothly and efficiently. Good product with low cast. Best for WFH doods,5.0
+Nice ...go for it !!,5.0
+Best value for mony at ₹999,5.0
+"Ordered on 14 Oct 15, delivered on 17 Oct 15. Hassle free use. I am using PC by Ethernet port but smart phone and Laptop connected with wifi.Today 22 Nov 15, Working fine. I purchased sony LED tv from the market This TV also has wifi and Ethernet facility. TV also connected with wifi.I have three rooms. Router installed in last room but TV in first room. It works fine when Bsnl provides high speed.",5.0
+"its been less than 3 months, it doesnt work properly,. waste of money, please dont buy",1.0
+"Design attractive, Signal good, Easy n quick installation, overall good product.",5.0
+This was a easy to use product. Strength & Signal wise no complain so far.,4.0
+Nice,5.0
+"Nice product, proper packaging. product working properly",5.0
+Nice router for people using for their homes. It's also easy to setup.,5.0
+Writing this review after 10 months of use. Modem runs for almost 16 hours a day and working good till date. Nice and original product. Value for money as compared to market and shops,5.0
+Very,5.0
+Good signal coverage for our entire duplex house...maintains the speed even at low signal conditions..overall good product..,5.0
+Working fine since months . I have not faced any issue since i got this.,5.0
+Signal becomes weak in another room. Sometimes requires rebooting.,3.0
+Good,5.0
+Good,5.0
+"Service of Amazon is excellent. Unfortunately, product is not that good. I would suggest to buy standard router from reputed brands like Linksys, Dell etc. These chinese products really does not do the job.",1.0
+"Perfectly matched my budget and has bested my technical expectations previously i used to get 20 mbps  speeds with another router in the same place but i am getting 70 mbps now, I have an 100 mbps connection, got for this TP-LINK TL-WR841N 300Mbps Wireless N Router it is worth the price and the specifications, have not found any cons till now, it is running continuously for about 3 weeks.",5.0
+It is very good product. Easy to use and install.,5.0
+Awesome Product. Buy any time. Zero hazzel. Running smoothly & covering our all 3 floors of the house.,5.0
+Using it for last one week and it's working absolutely fine. Placed in the centre of 3bhk second floor and my room is in third floor. Signal quality is excellent in rooms near the router and sufficient ( mostly one bar less than full signal but still no impact on internet signal ) in rooms away from it.,5.0
+Range is really bad for Wifi signal. I got it replaced with same configuration router from other brand (dual antina router)  which was able to cover entire home but this router has really bad signal lose for very short ranges,1.0
+The Wi-fi signals are weak. I had a previous model of TP router which had better signal strength,4.0
+This router provides good signal coverage over a 2 BHK of around 800 sq ft. Solves my purpose.,5.0
+I like is his disign it looks impressive,4.0
+"I use it in a single room 1-2 meters away from it. Roughly 5 devices connected at any time, but using only few. Had no issues yet.",5.0
+"I am satisfied with this,",5.0
+Good for the price...,4.0
+"Good Router, Working as per expectation.Only Thing is that: I was expecting better range with those 2 Antennas.Sadly Even in a Small House, It don't catches Wifi. Signal in One of the Room, Which is very Disappointing....",3.0
+This product is really good. I bought it back in 2015(I guess) and it is still working nice.,5.0
+It’s one of the best router brand. And very easy to install. Easy to mount on wall. In and all it’s best.,5.0
+Range is very bad. Even sometimes the net connection disappears,1.0
+"Great product. Using that for last one week, super wireless router and recommend this whover looks for home wifi router",5.0
+Work good,4.0
+In less than 15 days of buying its getting shutdown automatically than i have to restart it - very bad experience dont buy,1.0
+3 antena is for name sake.  Coverage is very bad. D-link 2 antena gives far better range than this.  Returned the product.,1.0
+"Very cheapest and very easy to set up, i am using this on window 10. this is best router in best price.never expected this fast delivery in just 2 days. very good.",5.0
+Not good,2.0
+Good range and speed,5.0
+Awesome,5.0
+Product itself is quite satisfactory. Lightwait and most recommended.,4.0
+Suitable for small area.. best in quality.. I am using form last 3 year's,5.0
+Not good range,3.0
+It's been a month I have been using it.Signal quality is good for 3bhk flat as well.It shows 4 signal even if you are 6-8 m away from router.I have not flashed it yet. But will test it soon.Overall packaging was full of air bags and kept it safe.I would recommend it to all those who are planning to setup router first time to have a better experience.Thanks.,5.0
+WIFI RANGE is very BAD.... please don't buy it .go for DLINK or NETGEAR.,1.0
+Using since more than a year. No issues till now,5.0
+I am fully satisfied with this router.1.  My router giving me vast range...i can connect wifi from groung floor (router is on 2nd floor)... Amazing range of wifi2. Delivery is very quick.3. Packaging is out of box!!... Rauter is very carefully packaged4. Overall this product is best to buy.,5.0
+Uninterrupted service with continuous usage. Signal strength is also excellent. Very good router for home wifi needs.,5.0
+If you have 100MBps plan you will experience a speed of 50 MBps in this router. Worst Router....,1.0
+Very poor signal. Unable to get proper internet even in 2 bed rooms. Frequent drops of internet . Not worthy to spend 1100 Rs on this,1.0
+Best in class. Upto the mark :),5.0
+Unable to used as repetator,3.0
+Amazon delivered me the product on the said time. I expected little earlier. Packaging was very nice. The TP-LINK router is very much easy to use. The configuration is very much easy. They provides one installation/configuration CD also. The WIFI coverage is good. Still not faced any heating issue. You may go for this. I think this is value for money product.,5.0
+Product goodBut packing not goodBox very very damage,4.0
+Trying to contact customer service as product is still under warranty but unable to connect...router stopped working....,2.0
+Got a broken product was out so couldn’t check it earlier and now the return window is closed very disappointed,1.0
+Nice,5.0
+The range of the wifi signal is too weak and with the range it just get weaker and connect and disconnect,1.0
+Did not get the same product as showing in the app. There showing other model & deliver other model... Cheating,2.0
+SatisfactoryCan trust,5.0
+Great performance and range,5.0
+"Its the best router available in the market at this range...easy to install and does not require any knowledge of IT networking.Amazon offers the most economical prince compaired to any online shopping website. Prefect, if your boardband provider provides you with a Lan cable...",5.0
+Plz return this product becoz  i want adsl +wireless router this product is only wireless it is not working with my network.,5.0
+"Average product not that good as shown and expected. ...full range is there if you have no walls around you eg : hall or open ground...if you keep router in hall and use in other room range decreses to 1, or 2  points... sufficient to 200 sq.yrds house but doesn't give full range upto whole area...installation is easy and quick....there are more good products than this. ..",3.0
+Range - had no worries in any of the corners of my 2BHK 1100sqft home - connects automatically just when I climb my stairs!Speed - the same as ur operator offers no lagBest buy !!!!,5.0
+Ok for normal usese but bandwidth control unavailable .,4.0
+Awesome web interface and super easy to install.,5.0
+TP - Link Router is very good but they Provided Duplicate Charger with this. Which is damage within 15 Days. Amazon should check product correctly.,1.0
+Good choice in low budget,5.0
+Faulty product ...plz don't buy it .Within two months it's not working....,2.0
+Tech support,5.0
+Not good,2.0
+"faulty item delivered ,no support received from Amazon and seller for return,no product support from manufacturer",1.0
+Not very good. Wifi signal drop off is very poor. Not recommended for anyone wanting multiroom/big room coverage.,2.0
+We have a two bed room apartment but unfortunately this router cannot provide good signal in every room properly.,3.0
+Doing its job nicely. Giving almost full signal strength in full house of my 3bhk 1700 sqft flat. Installation was easy for Windows os as given in instruction manual.,5.0
+It's a good router & I have faced no issues with it in the last 6 - 7 months. I am using it in a very small space and not really tested it's features to the hilt.,4.0
+Good.,4.0
+"A year later, it malfunction and the service center did not repair it",1.0
+"Nice product, satisfied need.",5.0
+Very  very  very  bad condition  this  produced  always  hang and Amazon  company  not  refund  menoy,2.0
+"Before tp-link my choice was D-link router, but the router I got was defective. So I return it ,and got refund on same day. (Great Customer service by amazon.in) Tp-link router was listed as best seller so I purchased it.It was very easy for me to setup with PPPoE connection and the router is working without any glitch till date.",5.0
+TP-Link TL-WR845N it is best wifi router,5.0
+Everything perfect awesomeness wifi range,5.0
+Good to use for home WifI under low speed,4.0
+"Well. It works absolutely fine. No problems with the stability. However, my friend had the same router which provides way more range than this one. I am having range issues. It may also be because of my router location. Not sure. Nice product overall. Worth this money.",4.0
+Not connected wifi speedI want to replace but return window is closeKindly replace my product,1.0
+It's been more then six month but sti has the wifif issue can any body suggest me the the service support,1.0
+The product works fine. Has good range must say. However i had ordered the product considering the fact that the description of the product says its version 8 coz i wanted to flash it with dd-wrt firmware. But i received a version 9. So thumbs down there fellas coz dd-wrt wont run on a v9.,3.0
+I purchased two of them. So far it is working as expected.,5.0
+This device is worth buying due to the speed and connectivity which its provide. I am using since more than 3 years and its working successfully. Highly recommended.,4.0
+more than enough for home use...,5.0
+I got this product in month of January 2021 and now it stop working in month of May2021. Dont Buy this product.,1.0
+This product is having the continues internet interruption and not abled to fix it also.,1.0
+I am using the product since last 10 days and until today have not faced any kind of trouble. The product is very easy to set up. Just follow the manual provided with it and you don't need anyone. The range of the router is also good. The speed is also good. Packing and delivery of Amazon is the best. Thank you Amazon.,5.0
+Total money waste. Speed dropped within 2 weeks for apparently no reason,1.0
+Good product... Using the tplink app from the playstore best use can be made of the device.,4.0
+Excellent product!,5.0
+Using this for almost a year. Very good and cheapest router i found. Range is also very very good if you increase the transmit power. Happy to buy it. Recommended.,5.0
+Good signal,4.0
+Router is getting hang frequently every day. Need to reboot.,2.0
+Router get turn off automatically longer use..poor wifi signal.waste of money,1.0
+Expected to  give superior network at some distance as it was with 3 antenna.,3.0
+Wifi Signal... Too weak and even after having three antennas they are useless,2.0
+..and i could install it without calling my network guys.,5.0
+"Perfectly met the expectation. Very simple to configure. Coverage is brilliant I am in 1250 sqft flat, same strength everywhere. Even I get till lift which is 25 ft away. Amazon delivery is cool , Just a day. Peace......",5.0
+Good product. Looks very stylish and has decent coverage with WiFi. One problem that it does not have any Means of hanging.,5.0
+"A good choice for a regular user. Configuration are similar to any other router. I have been using this for more than a year now, no issues faced yet with the product.",4.0
+I had problems installing it even with the officials. The product is a great piece though.,5.0
+Wifi speed is upto 100Mbps not 300. Good if required speed is less than 100Mbps.,2.0
+Review not on product which is good. but never choose Amazon  price is always high compare to flipkart,5.0
+Must buy,5.0
+Good,4.0
+Excellent product...,5.0
+Excellent product 👌,5.0
+Best Budget Router. It comes with a manual displaying simple steps to use it.,5.0
+"when you use the router for couple of hours, the speed decreases by half. I realized this mostly on everyday.I need to restart the router to get the full speed rated by internet service provider.The hardware of the router seems to have problem in keeping up the speed for long hours. Not sure why....",3.0
+"Nice product, very light and efficient, looks exactly the same",5.0
+you can definitely consider buying this for your home internet,5.0
+"My comment is based on 10 days of usage,ProsBest distanceDecent lookSimple to configure and useSeparate indicators for Power, Lan, WanConsHeating in bottom area",4.0
+Good,5.0
+Been over 8 months now and works well till dae. It is installed at the entry of my house and range covers all of the 3 BHK except for very far corner of the house. Ideally would cover a full house if installed in middled,4.0
+It's nice liked it,5.0
+Range is not that good when compared to antennas provided and there is network issue too,2.0
+"I am using it for more than 3 years no issue yet, it's a really great product.",4.0
+Makes lot of noise. My previous router was netgear and used to produce no sound but its adapter used to go off every now and then.,4.0
+This router really very good. Very easy installation. Wifi signal strength very good.,5.0
+nice product very fast delivery,5.0
+I am using this from more than 6 months and it is really amazing product.Due to power issues charger went bad and I got it replaced in nearby service centre .,5.0
+Works well,5.0
+I am losing connectivity on very second day of internet activationI don't know if it is firmware issues or any thing else I will come back to you,2.0
+The product has a replacement warranty of 3 years but has gone defective way before that. Don't know who do I contact for getting a free replacement. Amazon.in May Pl advise a way out,1.0
+"Signal strength is not good, same as my previous netgear router with single antenna.Speed is good.",3.0
+Please dont make mistake to buy this (TP-Link Wireless N Router WR841N) router. After every 15 min its disconnects and as my return window is over i cannot even return this now. This is the worst router i have used ever.,1.0
+"Easy to install, wifi signal pretty good too!",5.0
+"Good WiFi signal, Tech Support",5.0
+It’s working good I m happy with the product,5.0
+WiFi range is not as expected. From hall to bedroom where there is not much distance also speed is less.,3.0
+The range is highly in adequate even for a 2 bhk flat of 1000sqft area. It frequently hangs and requires power restart. Speed is ok in the same room but greatly reduces in adjacent room. Bit costly.,3.0
+"I was skeptical initially. But somehow knew it may be good. Turns out half the products in my house are from China. Phone, TV, AC, WiFi :-)",5.0
+"the build quality is okay, very easy to install but the connectivity and speed is very bad i had to refresh it every morning. very bad experience for me.",3.0
+"Good Product, works great",5.0
+got a perfect product at good price range....,5.0
+Good product. Value for money.,5.0
+"Descent product for Rs 970/- , working as expected though its just a week of usage.No issues as of now and easily configurable.",5.0
+Good one but only thing I noticed is the wifi coverage spot is not that wider. Pls check tech spec for more information..,4.0
+"Ordered the router as a replacement for my DLink Dir 605L. The Dlink router wasnt compatible with my ISP somehow. Using the TPLink fixed that issue. Its been 3 months and the router has been performing good. The range is pretty good for a 2BHK if your placement is correct.Overall a good buy.For 1000 bucks, its totally VFM",4.0
+Very easy to install and coverage,5.0
+I bought this router for my 3bhk flat at 6th floor and I must say that I have invested my money on the right product. Installed it in the middle of my flat and i am getting good connectivity in all my rooms.,4.0
+Good performance.,5.0
+Good,4.0
+Very weak signal,1.0
+Good,5.0
+Good,5.0
+Good,4.0
+Good,5.0
+Good,5.0
+No idea about how it is going to behave in the long run...I installed this yesterday and its working great so far.,5.0
+"Great signal range, speed and very easy to configure!",5.0
+"Good product, easy to install and good network coverage.",5.0
+"Worst quality continues disconnection problem and amazon provide only 10 days replacement guarantee. I am facing this problem after 15-20 days after buy, so can't do anything. But this kind of quality never expecting from you Amazon",1.0
+Tp-link always better then other router..!!,5.0
+Very poor WiFi signal I don't recommend this product😔😁 faulty product 😁🤫,1.0
+Nothing special. Provide full speed if you are in 300 sq.ft area around router.,2.0
+Good Signals through out home. Good for small business and home use. easy set up.dashboard needs improvement. Rest the device working fine without any issues from past 6 months.,5.0
+"It's easy to install, signal strength is good",5.0
+The wifi signal is poor don’t go for it if you want better coverage,3.0
+Very good product. I bought this at ₹999. Easy to install and wide range coverage.,5.0
+The internet light kept on blinking. Even the replacement showed the same problem.,1.0
+Easy to install,5.0
+Product is very good with adequate coverage...,5.0
+Worst product. Please don't buy. They will give you damaged product and there is no return.,1.0
+"Chip rate by amazon then other router, easy to install & service center is all most in India, 3 years warranty",5.0
+Good performance.  powerful WI-fi  signal  reaching inside two floor below.,4.0
+Till now no problem,5.0
+Not very much good products.,1.0
+Now my router is not working,1.0
+Excellent worth the purchase,5.0
+Password not set as per description,2.0
+I am not satisfied with this router,2.0
+"working great, finally got rid of my netgear after 7 years",5.0
+"after 3 months there is no working properly.so,this item is not best for use.i want to change this product.",1.0
+Hi wifi power easy. To set up,5.0
+very good,5.0
+Does what it claims.. happy to have switched over to TP link,5.0
+Fantastic product that serves its purpose flawlessly.,5.0
+Good product.quality is really good. giving review after using this for quite sometime.,4.0
+Good.. power adapter is very cheap...,4.0
+It's gets disconnected very frequently. Need to restart again and again.,2.0
+Router stopped working within 15 days .. worst product....waste of money,1.0
+Please I want to return the product as it has started giving problem now,1.0
+"Router was working <a href=""http://www.marathijournal.in"">fine</a>",4.0
+"I received my tp link router , and I am shocked performance awesome, no heat yetI really like this router and thanks to Amazon to bring this beautiful product to my home",5.0
+The product works just fine has effective range of 24 feet. Not suitable for long range.,4.0
+Ok good,1.0
+the delivery was spot on..nd the router nd the range is very gd keeping in mind the price of the prduct..while buying i was too confused between d-linkwr615 300mbps nd this product...but after reading many reviews and watching videos i decided to buy it..nd i m happy dat i hv chosen this product. thnks amazon..:),5.0
+Good product value of money,4.0
+My Wifi speed has definitely improved and so has the range. definitely recommended.,5.0
+The router is good. But I do not understand the 27% offer part currently available in Amazon. I bought it on March 2017 by paying Rs 1090 only. Then how come this is a offer with pricing Rs 1099. Really I do not understand.,4.0
+Best you can get in this price range. Works fine and value for money. I have tried dlink router as well but this is the best in class,5.0
+"Product was delivered on time and exactly as described. But I am bit disappointed with the range. In my 2BHK house at some corners the signal is very low. I have earlier used 150Mbps single antenna Netgear N-150 router, that had better range than this 300Mbps 2 antenna TP-Link router.",4.0
+Liked it...worth for money,5.0
+Its good and easy to use in domestic use.,4.0
+Very good product. No problem....,4.0
+Delivered properly. Good product.,5.0
+Good and easy to install product.,5.0
+The coverage is not that much as they say.,2.0
+"I use a 10mbps plan.I'm writing this review after using the router for 3 months. Worked excellently till 1 month.  After that, download(7mbps) speeds & upload speed(0.5mbps) have dropped drastically! The customer support is Pathetic!! They don't even respond to complaints.",3.0
+Easy to install with great signal strength. Very nice product.,5.0
+MAC address not working ...,1.0
+"Using it for last 1 month and its nice though the range is aout 10m only, recommended for small house upto 3Bhk, though the delivery was very late and lousy, maye as it was festival time, Customer care support is nice. I will recommend Amazon above Flip-kart and snapdeal as far as pricing is concerned.",4.0
+Good budget option although range is not much better than regular budget models.,4.0
+Looks are just great...really stylish and the product didn't have any complaints... Still working fine.. in fact it is working great...,5.0
+This product working good for WiFi signals,4.0
+"Wow, use it for the first time and it is so easy to setup. TP LINK ROCKS!!!",5.0
+Good performance of,5.0
+This device is working superbly... It has very powerful wifi connection.. Dual anteena makes the video calling more presize. Amazon gave the delivery within 2 days of order and the package was packed very well.,4.0
+Cheap and best . Easy to install /programme and good range ...Looks fine as of now (48 hours of use,4.0
+Good and easy to install and use,5.0
+Prompt delivery and good product,5.0
+Easy to install. Value for money,5.0
+So far there is no issue. Thanks,4.0
+Good router at this price point.,5.0
+Perfect WiFi router for WFH need,5.0
+Nice product by Amazon...,5.0
+I have used this router from 2 month and I am satisfied...And 2nd one is Amazon one more time proved it that packing system is perfect....,4.0
+Constant signal drops for WIFI.. otherwise ok.,1.0
+Verry bad experience after 2days it's not work anymore,4.0
+Wrost connection systemOften switch offHeating problemBad coverage,1.0
+supurb...wifi signal also best...no issue at all....,5.0
+"Nice and easy to connect, but when compared to my old belkin with In built antenna that to a 150 range which covered more diameter other than that for inside house coverage it is good",3.0
+I bought this for better wifi range but range is same as two antenna model TL-WR841N.,3.0
+I ordered it and within 2 days I have received delivery even in the place which is a Town. Happy with quick delivery from Amazon. And WiFi router is working very fine. Signal strength is also very good. Recommended to bye.,5.0
+"Does not catches the connectivity range in my hall, when router is place in one of my bedroom. need a ""range extender"", I  feel, can you suggest which can be suitable for my TP-LINK TL-WR841N 300Mbps WIRELESS N, Recently brought through amazon via invoice Number: MH-BOM4-1004-527918.",3.0
+Please prove Good printing receipt.  Router provide very poor range and speed.,2.0
+Outstanding,5.0
+Go for it,4.0
+"Awesome coverage, good strength, up to 40 metres I m getting good signal. Happy and satisfied, don’t think, buy it.",5.0
+Product is good.. Buy it's signal is poor so times. And radiation is also poor. I like it.,4.0
+Excellent signal strength and frequency. I'd recommend it.,5.0
+Good product. Serves the purpose. Adequate range.,5.0
+Acha bhai logo...nice product but range is 30 meter if not any clser!!! Working fine for use in home only,3.0
+"Wifi Range to weak even, The range where the router is installed is also weak.",1.0
+Ok good product,3.0
+"Worth purchase..its good, not best at its cost. Recommendable product!",4.0
+Bad product. No response from custmer care,1.0

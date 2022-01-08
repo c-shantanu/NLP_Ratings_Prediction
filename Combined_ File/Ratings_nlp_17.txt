@@ -1,0 +1,303 @@
+review,rating
+"I tried to connect it with my Jio Fibre(WiFi) but it was no showing both, 2.4 and 5Ghz even if i was sitting beside it. Rest all is Good but it was not showing my WiFi and thus, is a waste of money for me.",2.0
+Does not work.. does not show the wifi signal at all while the same is seen with mobile. Tried several options of installation of driver from to link site but nothing helps. Finally got an answer from Amazon questions that it does not support all channels. Modified the router configuration to change the channel to 4 instead of auto and it seems to work for now,2.0
+I bought it for configuring Soft AP mode with desktop PC with windows 10 to convert the LAN internet connection to WIFI. But that option is not available while configuring in Windows 10. it is greyed out,2.0
+"The CD that came along would not detect the adaptor no matter what you did safe mode, anti virus disabled no goFinally got to work.Speed is optimum if the mobile is close to the adaptor to share internetHowever not as fast as the USB cable connection",2.0
+Don’t buy this if you need a 5GHz band because this offers only 2.4Ghz. I had to order the Archer T3U which offers both and my first reaction is Wow! Getting max speed as per broadband plan in one corner of my house.,2.0
+"I bought this hoping it would be an upgrade over my existing WiFi adapter, the speed and range is way below expectations. i have a 150 MBps internet connection and i manage to get maximum of only 8.96 MBps download and 800 KBps upload speeds with very inconsistent pings.Pros:works out of the box with Ubuntu 18.04 LTSCons:very bad download and upload speedsvery inconsistent pingssize is bigger than other faster WiFi Adapters.There are better ones out there for cheap. I've gone back to using my Digisol WiFi adapter which is Designed and manufactured in India.",2.0
+"After two months of Intermittent struggles with drivers, incompatibility, usb not identified errors I finally had to ditch it. While it worked, it worked fine but then it kept not working too many times to make this Work From Home a hassle I didn’t need. Sorry TP-Link, I wanted to like this little device, but it simply didn’t work out.",2.0
+"Keeps on disconnecting on it's own, but won't connect back. Big headache, especially when we are doing some important work. Please dont buy. Total nuisance.",2.0
+"Good company..Had beautiful reviews so bought it..First 2 days I could see all networks even from my neighborhood and speed was really good...then it stopped showing my own connections and I started to get frustrated..never showed my connections again, even my new mobile hotspot a few inches away...  Returned for a refund...my 1st refund experience here was good.",2.0
+When u plug into your pc your windows started crashing. You can't use this usb deviceBcz of new windows updates.. don't waste your money. Just use wifi extender or direct ethernet wire,2.0
+"Not tht easy to use as my PC didn't have a CD drive...it would have been grt had the software been inside it, just like any plug and play device... WiFi signal recieved on my machine is very poor...0.5 Mbps on this device and 27 Mbps on my mobile at the same spot, on the same network!! My opinion is spend a little more if you need better speeds!!",2.0
+"Seller service as well as Amazon service is very good. No issue related to product still rating is low because of following reasons,1. Windows 7/8/8.1 requires installation of driver to detect & work the device.2. After lots of efforts failed to make device working on Raspberry-pi and on Linux (CentOS 7/Ubuntu 14/15).I think it's tp-link firmware upgrade issue because I have same device model which I purchased earlier will not require any external driver to install on Windows/Linux platforms.  Also, difference in packaging of same product model. Earlier, it comes in small box compare to this box packaging.",2.0
+Cheap quality product.. looses wifi connection very frequently and speed is very low.. it never goes beyond 4 Mbps... also makes whole network slow for unknown reason... stopped using because it creates more problems in network,2.0
+"The wi-fi adpater does not require installation. It works out of the box.But there are two issues i am facing. Hence it is idle now.It might probably be a problem with the device given to me.1. the Wi-fi does not connect. It detects the network. But it does not connect.2. Before the first issue came up, the speeds kept on varying. Sometimes it will be too slow and sometimes it will be normal speed.",2.0
+Connection speed is okayish. I have a 110 Megabits/s connection and on Ookla Speedtest I'm getting about 93Megabits/s. Downloads can be carried on easily but this is not made for Gaming in any way! The connection stability is horrible. I suffer from multiple ping spikes and terrible stability. Would not recommend for gaming at all.,2.0
+"-Not plug and play,You need to download drivers from their site- frequently looses connection- very frequently it shows no internet access on connected network. No problem in my wifi signal-not a significant increase in the ability to catch weak wifi signals than a cheap nano adaptor.Returned it after a day of usage",2.0
+Back side plastic is weak. That black plastic will be broke after some time.. Because when we plug in our out in to pc that plastic cant hold that much pressure.I will prefer to buy long body dongle for easy use.,2.0
+Internet speed keeps on reducing and stops working after 3-4 hours. Have to remove and reinsert device everytime to make it functional again.,2.0
+"This product has a bug. Many a times it will not show up the wifi network you had previously connected to. Checked out their support page, looks like there are others who have faced this issue. There is no fix. Tried everything, restart pc, re install drivers, restart wifi router, every SOP.",2.0
+Though my WIFI connection speed is 40Mbps which i usually get from my LAN cable but when I tried connecting it from TP-Link USB WiFi Adapter it plung down to 15Mbps.Would recommend to anyone.,2.0
+The product has come with a cd to set up which is not helpful for me personally as my CPU does not have a CD drive. Alternate measures would have been helpful.,2.0
+"This product is  perfect for windows . However , I intended to use it with linux and there no drivers availbale for that even on tp links site.So, it is useless for me . Secondly, they do allow a refund nowadays , only a replacement is possible which is frustating.",2.0
+"Now a days all the networks comes with 5g, so it is better we take adapter which supports 5g, Once I receive, I came to know it is not supporting 5g, now I CAN NOT RETURN.So please think twice before you take this item.it works fine with other network.",2.0
+My phone has much better reception than this. I had to use my phone's wifi to use internet on my desktop through usb tethering and I can browse really fast. This thing can barely connect from that location.,2.0
+"No reception if I close the door when the WiFi router is in the next room. Even with open door, I barely get a few Mbps while my phone or laptop get 50mbps at least. Regret buying this!",2.0
+I was very surprised at the poor reception quality of this dongle. It's very convenient yes -- but you pay the price in terms of coverage -- as it is not able to connect to the wireless network -- from across a distance. My phone can connect but this dongle cant. I purchased the mini version of this subsequently -- which is a much better buy for marginally more cost. I'd recommend avoid this and buy the Mini version instead -- TL WN823N.,2.0
+"Slow speed, frequently disconnect.",2.0
+Average device... but Rs 50 Cashback not credited to my Amazon pay account (payment via Amazon upi).Amazon told us the offer is from seller end...,2.0
+Cheap product. Not value for money. Wifi signa is not stable. Capturing power is not good.,2.0
+"product is very good for PC, but not for raspberry pi...i was using this for raspberry pi 2 and did'nt recognise it in ""iwconfig""...pure waste for raspberry pi....this is because this adapter is very power hungry...so we need to provide extra power to work this thing...",2.0
+"It is Not ideal if Wifi-router is in a different room or more than 4 Metres, this is a non-returnable item think carefully before purchasing.",2.0
+Not very easy to install. There isnt much of a gain in the signal,2.0
+"If you use Linux with a kernel > 3.2, and gcc > 4.2, this takes some effort to get it right. Once detected, the product is good but the code base to build the kernel module is outdated and needs changes to build without errors. This must be added to the description, just saying Linux is supported doesn't make sense",2.0
+It's not compatible with Linux latest version.So think before investing money into it. It supports basic linux version,2.0
+"may be it was faulty, continuously getting disconnected automatically, and never getting connected again, unless plug out and do again.",2.0
+"Its compact and easy to use, but WiFi signal strength is very week.It don't serve main purpose.On my laptop i get 90+Mbps speed, whereas using this adaptor i get 6Mbps speed, which is very less.",2.0
+Very poor wifi connectivity. Useful only in case of emergency,2.0
+I was able to instal it on my laptop easily but it took me 4 days to make it work on my desktop pc. There was no online tutorial regarding troubleshooting but fortunately I managed to find a way to make it work while randomly playing with its settings.,2.0
+"The wifi signal strength is good, but speed fluctuations are very annoying. There are constant speed drops and many times, you can only play videos at 720p. Really bad product.",2.0
+Product is gd enough but problem is about distance. U have to sit near within 1 meter only.if u go from hall to bedroom....range get  cut off...,2.0
+Provided Drivers not installed properly,2.0
+Not able to catch signals if the router is just 10 feet away. Waste of money.,2.0
+Spped not as advertised. Quied dissapointed,2.0
+"I thought of both AP & receiver mode after reading specification in Amazon & buyed. Buy only receiver mode. Waste , i want both in mini form factor.",2.0
+After some time it doesn’t show my wifi network.In the list of networksOnly my wifi or a connected wifi which was earlier connected with get disappear.,2.0
+I bought this to use with mobile hotspot but it's not detecting mobile hotspots sometimes with api band 2.4 ghz.it's not reliableif you are not going to use with mobile hotspot buy this,2.0
+"The reception capability of this is not good especially when you are trying to use it on a PC which is placed in a other room.I have a 100 mbps connection, but this can receive a speed of upto 5 mbps or less. Wouldnt' recommend.Installation is easy.",2.0
+I have HP 15 Notebook PC. In this it is not detecting all wifi access point. at same time other laptops detecting same wifi access point,2.0
+It works fine but I'm getting only 20-22 mbps speed. I have 100 mbps airtel fiber plan.,2.0
+It works but the range is very lowNot useful only for mobile hotspot,2.0
+I use it my phone hotspot . WiFi signal strength is very low. Sometime it does not even detect my hotspot even if it is kept beside the cpu. Need to unplug and plug it again in order for detection of new networks.,2.0
+product is very bad.. becouse after used 1 day .. internet disconnected automatically.. so return this project,2.0
+The speed and all is good but it just drops to zero quite frequently. I have to turn it off and then back on to get it working again every 15 min. I'd say. Quite irritating. Mac user.,2.0
+The product worked well for first 3 months. Now it stops working intermittently.Currently trying various methods to get it working.,2.0
+"Wifi signal gain on 1st floor is very very bad, I have 50mbps internet connection. I am using this wifi adaptor on 1st floor and the speed is just 1-2 mbps. Didn't solve the purpose for me.",2.0
+Not easy for installation,2.0
+The wi-fi adapter is not working.,2.0
+Work well with Personal computer,2.0
+"No support for ubuntu 18.04 and 20.04 ,and MANJARO, Fedora etc . Only work on windows.",2.0
+Does not get connected automatically most of the times. I am not getting internet when my dongle is in other room.,2.0
+Does not provide stated bandwidth improvement,2.0
+"The adapter supplied is Version 1 which is not supported by windows 10, please check your hardware version on receipt if you plan to use on windows 10.",2.0
+this item total disappoint me most time auto disconnect not worth and not recommend to any one,2.0
+Please note that this is only for 2ghz connection.,2.0
+Some times deu to software problem connection broken will occur and it shows that installation driver has to load again,2.0
+It does not support 5 GHz wifi and the speed of the wifi is comparatively slow,2.0
+The Product is awesome for small networks. Upto 10 Mbps connections. I have 40 Mbps network and this gave me only 10-12 Mbps speed. I checked the same network on my phone and it gives 40Mbps but through this adaptor I can get only 10 Mbps,2.0
+this product gives me hit and miss results for me... don't know does it actually supposed to work like it... with constant internet lagging!! actually dissatisfied!,2.0
+"Sometimes Wi-Fi  networks not showing after restarting the PC, which are already connected before restarting the PC.",2.0
+"It worked good for few months. Then the signal started dropping, frequent disconnections. So cant say it works flawless. When it works it works good.",2.0
+Very disappointed.,2.0
+Not worth. Do not work.,2.0
+"The driver installation is not easy, not a plug and play ... have to manually update driver ..The reach is good,...The speed is definitely as advertised ..i get 40mbps ..... on downloads .. never higher ..",2.0
+Like all cheap Chinese wifi connectors it has stopped working in a few months...  Doesn't connect anymore... Waste of money,2.0
+Not even able to maintain 16mbps. My other dongle gives constant 40mbps.Had no challenge setting up though.,2.0
+Signal is good but from 3 mtr distance is not working properly.  Very low speed of data.,2.0
+Not good,2.0
+This is the TL-WN722N version 2 which does not work with Linux unless a lot of tinkering is involved. Does not support monitor mode.Great for normal usage. According to reports the TL-WN722N version 1 supports Linux and monitor mode and has a different chipset from the version 2.,2.0
+Did not work for macbook pro as its installation package is not available online,2.0
+Product quality is good and it has super compatible with win 10..but after 5 days i am facing issue i noticed that the range is not that great and connection is fluctuating,2.0
+"Inserted the CD given in the box. Right after that, the CD drive got stuck. The tray wouldn't eject nor would it show the content of CD on my system. The wifi adapter works fine - even without inserting the CD or installing anything - tried it on another laptop. Dont get the whole point of shipping a CD though.",2.0
+Do not buy this product if you think your router is a little distant from your computer. The inter speed received is very low.,2.0
+"Doesn't work 90% of the time. Won't detect, or won't connect. The other day it wasn't working after trying everything I decided to switch it's port. It broke. It's not that this adapter is bad, I'm sure all of them are just as bad. Just get an internal adapter.",2.0
+Not the one I required,2.0
+Lacks detailed description,2.0
+Internet speed am getting by this device is 2-3mbps where as at the same time I get 130mbps from phone,2.0
+Not able to detect hotspot created from a phone even if it is a open or secured network  on both recommended frequency,2.0
+Didn't support win7. Probably this device had some issues,2.0
+I use this more then one month and not satisfied with this product as disconnected on interval basis which is very frustrating,2.0
+Consistently gets disconnected. Every 20 - 30 minutes WiFi connection gets disconnected and had to reconnect back. Returned it back. Although the installation was quite simple and straight forward.,2.0
+Doesnot always work with Windows 10 PC. Frequent Disconnections with router.Have unplug and plug it to work again.,2.0
+It stops working after a month service.not recommended. it seems to be cheep build quality and durability.:(,2.0
+Range is very lowgood for mobile hotspots and wifi router that are in the same room.,2.0
+Doesn't work properly on Linux PC. Doesn't pick up wifi signal even though it's placed near the router. Had to return it,2.0
+Adaptor stopped working after 1 week,2.0
+IT shows to provide 150mbps but rarely it provides speed of 15 mbps. I dont recommend to buy this product,2.0
+I didn't needed this,2.0
+The product states that it gives 300mbps but I gave the input as 15 mbps and it just gave the output as 17mbps.,2.0
+Stopped working,2.0
+Won't access 300dp and always commetevity issues,2.0
+"Wanted to return, but not accepting returns",2.0
+Got a used product.But thanks to Amazon got refunded.2 stars to AmazonZero to product.,2.0
+Does not work with wifi range extenders. I have a TP-LINK WA730RE and it shows the network at full strength but does not connect to it.,2.0
+Nice,2.0
+Not good,2.0
+"Getting system error, when I'm using this WiFi card. Not satisfied. design is superb, and easy to use... If it is properly supported.",2.0
+Does not work on raspberry piBeware if you are buying it for raspberry pi. there are different versions and the version i got (v2) didn't work.,2.0
+I only got 30 Mbps max and my connection is 100mbps.but on the other hand it is plug and play,2.0
+"Well it's work fine but if u want to use on Mac , kindly plz do look for driver first .",2.0
+I cannot connect any other device i can only connect the device which i connected first pls tell a solution,2.0
+Every thing was good while using this adaptor after few days it stop working,2.0
+Does not support 5g speed band. Waste if you want to play games or want high speed internet.,2.0
+Ok,2.0
+Speed drastically reduced while using this rather than direct wifi,2.0
+Worked only 2 months,2.0
+Most frequently disconnects ...easy to install,2.0
+sometimes work sometimes not,2.0
+Slow Internet Speed,2.0
+Device performance is not so good as compared to price,2.0
+Not soo good. I have been using it for sharing my desktop internet. The signal strength is poor and the signal turns on and off frequently.,2.0
+the range is not good. the vedio bufferes even if the seep is above 50mbpsand stops in between after a month i stopped using it,2.0
+Range isn't that good compared to your phone's wifi antenna.,2.0
+"Good as WiFi adaptor but I am not able to use it as hotspot even after going through lots of blogs on internet. If anyone knows how to do it for v3 hardware, please let me know.",2.0
+Note sure,2.0
+Very poor reception if you go away from the room the router is connection speed falls to 15 mbps my Internet is 40 mbps have to work at 1/3 the speed,2.0
+Very poor speed.,2.0
+Wifi signal get disconnected sometime,2.0
+Product speed too slowProduct is good build quality good,2.0
+Initially worked very well but stopped working after couple of months.,2.0
+Able to connect to wifi but speed is very bad,2.0
+"Hot-Spot connectivity is quite unstable. Once disconnected, have to restart the device in order to get connected again.",2.0
+This was not working initially. But it was replaced and the replacement worked for two months and then again is defective.,2.0
+Always gets disconnected.Need to reinstall the drivers all the time.I do not recommend this product,2.0
+The product works properly but gets heated up within use of just few hours.,2.0
+It wont support for monitor mode and even its not detecting in kali and the linux beta drivers are available but dosent work,2.0
+It doesnt support monitor and packet injection mode.Infact the version is v2 but not v1.,2.0
+Poor connectivity speeds.,2.0
+Don't go for this product,2.0
+First is easy to use second time when u connect is not connecting,2.0
+"No support for linux, gcc compilation failed while inatalling the driver",2.0
+It is not able to detect hotspot of Samsung M31S,2.0
+metrial design not worth above 400 within year damage front led,2.0
+didnot worked for long,2.0
+Easy to installProduct quality is okDurability is good,2.0
+How to claim warranty for tis product as with in 4 months not working,2.0
+Not much happy with the product,2.0
+No V1 only support v2 is not at all detecting in Kali Linux. This is a Fake one Plzzz don't buy this at all,2.0
+Worst chinese item. Worked for ten days.,2.0
+Didn't worked,2.0
+range is bad. cannot go beyond a distance,2.0
+Getting only 5-10 Mbps speed on 40mbps connection.,2.0
+The product is good. But the signal range is little weak. Returned this and went for another product by TP-Link which was better.,2.0
+No use of taking adapter not working on kali linux . I hate it.,2.0
+Cp plus  camra  supported driver,2.0
+"Not connected properly , network disconnected again and again",2.0
+"This product was faulty, hence requested for replacement.",2.0
+Gets disconnect quite often,2.0
+Is a waste of money.,2.0
+The signal is bad... Very poor.It captures only upto 2mbps,2.0
+"wifi strength is low,  for this price it's okay",2.0
+signal receiving very poor,2.0
+"Worst device, it's never working in airmon",2.0
+It’s not compatible to TP link Router 500 Mbps.,2.0
+It's not 150 mbps .... it is 72 mbps wairless LAN Card...,2.0
+Worst Product...This Tp-Link disable the Ethernet connection and crash the hardware..,2.0
+Lacks drivers for quite good number of devices.,2.0
+No plug and play support for Linux. Uses cheap WLAN chip from realtek with just okay performance.,2.0
+"Go better 150mbps one, that will support all the systems and easy to install",2.0
+CD was broken in the packagingBut all is good 👍,2.0
+stupid product dont waste money instead buy earthnet cable,2.0
+This CD has not valid licence key.,2.0
+It doesn't support monitor mode that's the disadvantage otherwise I like everything about it,2.0
+Not working...,2.0
+It Doesn't Have Atheros Chipest So No Monitor Mode..It has Realtek Chipest so u can use it only for using WiFi purpose.,2.0
+Fair quality,2.0
+good worked for a 6 month but  have three  year of warrenty so i can replace it,2.0
+Doesn't work with Raspberry Pi as Said. It Doesn't even detect the adapter works with windows,2.0
+it is ver. 2 . so it not working in kali linux.,2.0
+Quality not very goodNot relayable it got dead in 4 months,2.0
+Wi-fi speed is not good.,2.0
+"Doesn't catch signal easily, keeps on disconnecting every 10 minutes. Even when connected, it doesn't give an optimal speed.",2.0
+this model does not support monitor mode.,2.0
+I bought this device today... i am not getting the high speed when connected to my pc... and the wifi strength reduces when we keep the device 5 to 8 mts away itself... waste of buying this,2.0
+The product did not connect with 150 Mbps. It connects only with 72 Mbps speed. Tried various settings on both my router and laptop with out any joy.,2.0
+The product average.disconcted every time after 2 min. Use ... Need to unplug device for working.Go For D-Link,2.0
+Not a reliable gadget.,2.0
+Not getting speed when using it in pc.Can't even getting chrome uploaded,2.0
+Nice product,2.0
+nice item i like agan.,2.0
+Maximum 120 Kb/s is showing while downloading. I have unlimited internet package but still not covered up to that speed,2.0
+Not working,2.0
+Dint work with my pc,2.0
+THE SIGNAL STRENGHT IS VERY POOR BUT THE SPEED IT PROVIDES IS AWESOME .,2.0
+Working very fine.One MUST GO THROUGH the operation manual carefully.Thank you.,2.0
+This adopter works with Windows 8.1 and above only. This data was not provided with the specification.,2.0
+"It worked initilasy on win10 ..., after some updats by Microsoft it stopped working on win10",2.0
+This thing just came off.,2.0
+Size is small good thing. But it does not help in getting high speed net,2.0
+not good,2.0
+Doesn't detect most of the times.,2.0
+Stopped working after 3 months,2.0
+signal strength is weak,2.0
+disconnect automatically after few hours of use,2.0
+Ok ok,2.0
+This wifi adapter not support monitor mode and packet injection,2.0
+IT working nicely but the life time is very very low...,2.0
+Nice,2.0
+This product not support monitor mode in Kali Linux.,2.0
+Average,2.0
+It freezes my windows 10 pc when I insert it in the USB port.,2.0
+It worked fine in the initial days. But then started to face connection issue after 3 months...,2.0
+Its ready to use no software need,2.0
+It gives less seed compare to wire... i would not recommend as am returning it.,2.0
+Easy to install but range too short,2.0
+No speed if wifi network is long distance,2.0
+Not as good as expected.Frequent network drops. I don't know it's a window problem or adapter problem but it sucks.Not a plug & play device.,2.0
+Ok,2.0
+Not working with linux,2.0
+The WiFi connection get disconnected every 15 minutes and I have to unplug and plug in again,2.0
+Good item but is not durable. The one i had broke within 3 days,2.0
+Description is not enough so I face monitoring problem,2.0
+Does not work at all. A waste of money.,2.0
+Not working after just 2 months of purchase.The USB adapter doesn't get recognized by the system.,2.0
+Connected to my router but speed was very poor,2.0
+"After 3 months of buying, it started causing problem",2.0
+Worked 1 month and stopped working,2.0
+work well when modem is near and showing 4&5 tower,2.0
+breaks easily,2.0
+product received on 11th of January,2.0
+Bad signal strength,2.0
+not working with linux latest versions properly.,2.0
+The download speed is slow,2.0
+it is not properly working after 1 month,2.0
+"Bad,my laptop wifi is better then to this",2.0
+not able to detect my broadband wifi. my mobile detect it,2.0
+I don't get warrent card with this..,2.0
+Not working properly.....,2.0
+Its not reliable.Worked only for 4 months.,2.0
+Not as expected.,2.0
+It was not working properly jumps of somtime,2.0
+Not as powerful as it was publicized,2.0
+Low reception range...,2.0
+good,2.0
+It is working fine.,2.0
+"Damaged product when seal open,  not working properly,",2.0
+Nice it is economies,2.0
+Average product,2.0
+good product,2.0
+Good,2.0
+i cant use it for my purpose,2.0
+"This WiFi adapter needs a very strong signal to connect. In my case the WiFi signal is strong enough for my lenovo laptop and my mobile phone to find the network and connect but this devise finds the signal strength too low. Basically, this was a waste of my money",2.0
+"My previous message below:It stopped working after two months. I wont recommend this product.The package was good. The item is very good (using it since two days). Was able to install easily in laptop but faced some issues in PC. Since I did not have a cd drive, I have downloaded the install drive file from tp-link web page. It works fine.",2.0
+"Speed 150Mbps as previous usb Zyxel, can't automatically connected.  Low price 150Mbps working better then this high price 300 Mbps usb.  I think China made product not working properly instead of Korea, Taiwan, or other countries made.  😢😢😢😢",2.0
+"I ordered this to use it for my windows machine. it works but has lot of issues1. doesnt detect on boot sometimes, need to remove and connect. (across different OS so not installation or driver issue)2. ubuntu never detects on boot. need to remove and connect.3. speed isn't that good, i have a really good wifi and this still struggles with signal.  (it discovers wifi, but internet does not work)",2.0
+"The delivery time taken was perfect no problems with Amazon. But this product is not good in functionality, keeps disconnecting the Internet throughout the day. There arises a need to re-connect it again & again which is very irritating. Have no choice but to dump this and order another one from a different company this time.",2.0
+"First one year it worked very well,rated 5 star for its range and capability to absorb a wifi signal like Apple devices! But after one year of uses its causing blue screen to pc. And forcing your pc to restart. Just contacting the seller for replacement. Let's see what they tell.",2.0
+i haven't use one time also my computer not detecting this device.at the time of installation it detects after that it was worst.im totally unhappy to purchase this product.but the only good thing is this device drivers are available on net.,2.0
+not upto the mark.. range is not much. why we should spend 1500/ on this if we can get the same facility in 800/-,2.0
+had bought to use as hotspot from my central PC with wired internet. But within 10 min after connecting to my mobile or laptop the internet disconnects. Tried by exchanging with amazon but problem persists.Mostly this USB systems are not comparable with wired routers in performance...Better buy wired routers instead of this fancy USB,2.0
+i saw the comments and i bought tis and its totally useless with kali linux! its version 2.0 and the drivers fr this rtl8188eu device does not supports monitor mode....😓 where can i get version 1.0 with aetheros chipset?,2.0
+Fickle connectivity. Sometime it doesnt connect to a wifi 12 meters away. So sucks.,2.0
+"1. It's is made in China so pls don't buy.2. Test: To test it i used it in Desktop and for the comparison i used Laptop(without this wifi adapter). After doing multiple test at different time of day, i can say that while the download speed remains same, ping delay of this device 4x more than default LAN cableway or default WiFi of laptop. I often connect my office machine remotely, so while using this I observe lot of latency in request and response.",2.0
+Don't Expect Speeds As Much As 1/2mbps on this .... In general on my college WiFi ... General speed goes up to 2-4 Mbps (5Hz) n 700kbps-2mbps (2.4Hz) .... But this Doesn't Even Cross 200 kbps .... Was disappointed!You Can Buy This Only if u want to suffer around the net... Nothing much more than that !,2.0
+Every thing is Ok. But range is pathetic and that is what is required. Please don't waste ur time and money.,2.0
+Didnt work on a Asus Desktop. router was at a distance of 15 meters and it couldnt identify the signals. sent it back,2.0
+Don't buy this product if you want to enjoy high internet speed. You will get only half of your internet speed if you use this product. My speed decreased from 85+ mbps to 40-45 mbps while using this product. Hope this is helpful to someone,2.0
+Wireless range is 5-10 meter. Better go for D-Link or other brand.,2.0
+No sim slot... Only router,2.0
+The tip cover breaks easily while pulling out from USB port.  The chip gets exposed and Once broken you can't pull it out from USB port.,2.0
+not working with windows XP systems,2.0
+It is not that what i excepted.it id not increasing signal range.,2.0
+The product itself is very good.The version which is available on amazon right now is version 4.The problem is it does not have proper linux drivers.Also the driver CD contains an empty folder named linux.Going to return it.,2.0
+stopped working in 6 months..not satisfied.,2.0
+More time waste in refundable money.,2.0
+Received defective one! So can't say about Performance..,2.0
+good,2.0
+"not working properlybad service 
+
+TP-Link TL-WN722N 150Mbps Wireless USB Adapter (Black/White)",2.0
+I bought this after going through its review and lots of R&D but this product is not well supported with window 8.1 and 1.,2.0
+"It's not working in kali VM, I'm able to detect it but not able to change the mode to monitoring and mac. So this not the perfect one for packet injection or penetration testing.",2.0
+Not as upto the mark as product have I expected.,2.0
+I expected better performance,2.0
+"This product is not upto the mark. After roughly one month I am forced to buy another adapter because this one is broken. Below are the issues I faced:- The small black cap came out when I was trying to eject the adapter from the port.- It's not easy to eject it from the port because of it's small size.- Now the adapter scans but doesn't find any network (because of it's broken cap I guess) although my wifi router is working properly.- The range is small but it does it work.About Amazon, the packaging was excellent and the delivery was on time.",2.0
+Range is poor. Doesn't connect properly to a modem in the adjacent room,2.0
+It doesnot have the monitoring mode option...,2.0
+Do not support monitor mode not for hacking,2.0
+Signals breaking sometimes problemThis adapter wifi range is just like mobile wifi range. It is not extra ordinary productIf you thinking that i will catch wifi signal from hundred meter where my mobile wifi cant catch then you are wrong. Its signal strength is just like mobile wifi.Adapter build quantity is good but still it not as what i accepted.,2.0
+"first of all not satisfied with the delivery, my address is in metro city(500017) and yet it takes 3 to 4 days for delivery to bad, other site provides next day delivery without any extra charges. coming to product, does not met the expectations my wifi router is only 7 to 8 meters away from this adapter and it is giving only 3 point signal out of 6 though i am using same company router. not met the expectation",2.0
+Look wise very compact all the it's not connecting properly and also some times it will not work....,2.0
+There is CD which comes with it. It has the windows and the mac drivers but not the linux driver. You have to download it from the net . Not only this you have to compile the program and then install it yourself .But just think the downloaded file does not work..........shotgunning..!,2.0
+Very weak. Not good for desktops and gaming.,2.0
+Not expect this,2.0
+1.Bought for WiFi hacking2.This doesn't have monitor mode.3.Worth for money,2.0
+Not a bad product,2.0
+Not working when there is a wall between wifi router and desktop.. But when connected apeed is fine..,2.0
+It doesn't support Windows 10,2.0
+Can I use it to enhance wifi signal for Sony Bravia television,2.0
+super,2.0
+Not high distance .. so sadOver cost,2.0
+Can we put sim card in itAnd use it as hotspot,2.0
+Very simple to use but the performance is sub par for 500 rupees.,2.0
